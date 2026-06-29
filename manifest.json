@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29T14:22:26.246Z",
+  "generated": "2026-06-29T15:42:34.092Z",
   "files": {
     "Char-Avatar/UI_AvatarIcon_Aino.png": {
       "hash": "6d0d39fcddf05e7d79ab8225c6117369b951290b43b9d29d7049b93f797fd296",
@@ -508,6 +508,14 @@
     "Char-Costume/UI_Costume_BennettCostumeSummer.webp": {
       "hash": "eb61967cc16aa8cb193585c84c54002ee60683fb85c6bd82da6bd7849a21f928",
       "size": 300988
+    },
+    "Char-Costume/UI_Costume_CharlotteCostumeDong.webp": {
+      "hash": "84b8d078b889a4427fd34eda4d2ddba641b605791d696cbf745b1c54b15dc48c",
+      "size": 253870
+    },
+    "Char-Costume/UI_Costume_CitlaliCostumeXia.webp": {
+      "hash": "eccb53e6a088e13ebdff347c1908d1514460be3ec7ac7f317974a42d90788464",
+      "size": 353200
     },
     "Char-Costume/UI_Costume_DilucCostumeFlamme.webp": {
       "hash": "86d69c90cfb20c3e2f46384096c8aebbdd0b5b73e12d43e243ca57faee2db56a",
@@ -13256,14 +13264,6 @@
     "Relic/UI_RelicIcon_15046_5.webp": {
       "hash": "07cd4e2a4c75854ffd953c07b17fa9c422586842e82e86ab78ec3353e4e03432",
       "size": 22496
-    },
-    "UI_Costume_CharlotteCostumeDong.webp": {
-      "hash": "84b8d078b889a4427fd34eda4d2ddba641b605791d696cbf745b1c54b15dc48c",
-      "size": 253870
-    },
-    "UI_Costume_CitlaliCostumeXia.webp": {
-      "hash": "eccb53e6a088e13ebdff347c1908d1514460be3ec7ac7f317974a42d90788464",
-      "size": 353200
     },
     "Weapon-Icon/UI_EquipIcon_Bow_Alkonost.png": {
       "hash": "0c291931d78f324e389e48ef6519ba02428e18bf80e855da8847060d2d2f21cd",

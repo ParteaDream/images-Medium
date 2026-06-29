@@ -1,14 +1,6 @@
 {
-  "generated": "2026-06-28T13:15:18.548Z",
+  "generated": "2026-06-29T14:22:26.246Z",
   "files": {
-    "1e1fb31dad9844f41bda3b5a9cd46aa9_5716772109302376596.png": {
-      "hash": "2334049e3f7b431580602e95b9923c181596abbb4ae5b19dcb11e8729ea73439",
-      "size": 79672
-    },
-    "8004694a42dd767b34040d08bedef68d_964321560171018179.png": {
-      "hash": "7a7f9fba2d9ce9f87d165853f45ac2013feaa3fcc9133c43cca6e667ffcb6e7e",
-      "size": 143001
-    },
     "Char-Avatar/UI_AvatarIcon_Aino.png": {
       "hash": "6d0d39fcddf05e7d79ab8225c6117369b951290b43b9d29d7049b93f797fd296",
       "size": 92961
@@ -9377,6 +9369,10 @@
       "hash": "562ba56ae5521a88ff7a9360fad308d81c8ffdd89b6142d99c4439ebd796ea67",
       "size": 19376
     },
+    "Item/UI_ItemIcon_108880.webp": {
+      "hash": "9ce8192d79bc27ece35396f18ec60aaedc75eba2abd40f5f1ede59c23841deb5",
+      "size": 28720
+    },
     "Item/UI_ItemIcon_112002.png": {
       "hash": "5b835e8fc4e7cd9050760aa55b4e025cd9a7003d4b571f559c6bc3260a738989",
       "size": 11805
@@ -10788,6 +10784,102 @@
     "Item/UI_ItemIcon_114084.webp": {
       "hash": "1c2b2bf91e17196d86ae8f25817fff34ebc135a0b8ad3d2e8512afd0bd1fe01c",
       "size": 17010
+    },
+    "Monster/UI_Img_LeyLineChallenge_Archdeacon.png": {
+      "hash": "6c20fab523c067998e8552d3a809cd1fac318d75a30fb6bcbf4ffb9c34f5eede",
+      "size": 1668623
+    },
+    "Monster/UI_Img_LeyLineChallenge_Dendrite.png": {
+      "hash": "01bcd3ded679632cb47e74f0a503ce25e93be36710dbc7e09ae198ae4a093a75",
+      "size": 1472251
+    },
+    "Monster/UI_Img_LeyLineChallenge_DragonClaw.png": {
+      "hash": "2ed845f7c7e758bc0b8db28af6339d92750e371d95abca943dba64267e00b415",
+      "size": 1183147
+    },
+    "Monster/UI_Img_LeyLineChallenge_DragonCollar.png": {
+      "hash": "f984ec6000afb63aed1b71ffb43617b10f5ff45422b6e653dcc4f435addb20ff",
+      "size": 1272093
+    },
+    "Monster/UI_Img_LeyLineChallenge_FatuusEscadronIce.png": {
+      "hash": "c85dfca29c86cd87ad100918af248e8362620c2be0bb7d50420bc97ddde9453a",
+      "size": 1500819
+    },
+    "Monster/UI_Img_LeyLineChallenge_GargoyleFafnir.png": {
+      "hash": "aca3944cf9e40d5d7a9b2351a5f241f14230adff1659837075687aedf4667166",
+      "size": 1595163
+    },
+    "Monster/UI_Img_LeyLineChallenge_Gastrobot01.png": {
+      "hash": "71e7da6f79904a84e276568f347005fa7d6eab8264dca2e9b03752f467f41fe9",
+      "size": 1424399
+    },
+    "Monster/UI_Img_LeyLineChallenge_Gravitas.png": {
+      "hash": "0758e89cc5a56f06f6d7cc83f48e79ea097d741c2eb5f059ec97d4246193dd21",
+      "size": 1414013
+    },
+    "Monster/UI_Img_LeyLineChallenge_HermitCrabMatureElite.png": {
+      "hash": "76f687cd1bba53f14dcbcbf564b2b6b67137dbfe088f276959de7e389de6c5a9",
+      "size": 1398675
+    },
+    "Monster/UI_Img_LeyLineChallenge_HermitCrabPrimo.png": {
+      "hash": "c7bfe1033d83549960ec0511cbd3fc2baaef326f20fe2c81bf1f111128cba79c",
+      "size": 1352704
+    },
+    "Monster/UI_Img_LeyLineChallenge_HerraFrost01.png": {
+      "hash": "a677d5f072ce338335b478cc16a19aebb1566ed9f632593dbb7117d6f905be3c",
+      "size": 1778362
+    },
+    "Monster/UI_Img_LeyLineChallenge_LavaTitan.png": {
+      "hash": "f8d422a6633b396ef4e9fb1e977553dd44290d915b629730d60afbe6f40e1290",
+      "size": 1246662
+    },
+    "Monster/UI_Img_LeyLineChallenge_LloigorPrimo.png": {
+      "hash": "1b957eb3054aa4adc03936222321ad832535c9b4d194c90220e7ff694523f9bf",
+      "size": 1230700
+    },
+    "Monster/UI_Img_LeyLineChallenge_MagbeastGecko.png": {
+      "hash": "d0af6033512fab5d7ebbbfacfb87d3fa9e0a0e4144e8034b0cf88bc079e620ca",
+      "size": 1346554
+    },
+    "Monster/UI_Img_LeyLineChallenge_Magbeast_Steppenwolf.png": {
+      "hash": "1a6c9c9ce03486d46f6c1010826670ca649cf560bfbb5e47907a096d3d2a1005",
+      "size": 1138001
+    },
+    "Monster/UI_Img_LeyLineChallenge_MandragoraElite.png": {
+      "hash": "19d0d29865279780e29f04e7ab73a963695171ecd1c7a9c0a6125deebc6d8f81",
+      "size": 1027090
+    },
+    "Monster/UI_Img_LeyLineChallenge_Monitor_02.png": {
+      "hash": "b8eb37b85b9230482a6461c1b229d9368ec24182a11227fea65bd35bdc501068",
+      "size": 1108397
+    },
+    "Monster/UI_Img_LeyLineChallenge_Narcissusborn.png": {
+      "hash": "5c7ba57d55a795b2e6c786220f3027097a49ee75e4eed45310b999f19f07c166",
+      "size": 1266603
+    },
+    "Monster/UI_Img_LeyLineChallenge_Natsaurus_Shamansaurus_Normal.png": {
+      "hash": "9f8769ef78e6deff75661bb6c6d216833b560fe5bc2340b4938eb9132cb49c13",
+      "size": 1459540
+    },
+    "Monster/UI_Img_LeyLineChallenge_OprichnikLanceArquebusRodya.png": {
+      "hash": "1ca6290847f849444c8686e9e196160455ace481dcab9f1bfe28ef058b5938d6",
+      "size": 1511747
+    },
+    "Monster/UI_Img_LeyLineChallenge_Tenoyollotzin.png": {
+      "hash": "23fc46ae912de44ab313ba1e1ab8dae4e822e97c7d8d0e635c1f2a5f0cadd35d",
+      "size": 1293847
+    },
+    "Monster/UI_Img_LeyLineChallenge_TortoiseElectric.png": {
+      "hash": "f7f2b2fed51e876127cccfb9b45aee0ab64f83a668013e340be5132f791116ac",
+      "size": 1248728
+    },
+    "Monster/UI_Img_LeyLineChallenge_Watcher_Primo.png": {
+      "hash": "4aefc95ea1dbd2d7de139ab6fbce1734f76cd898faf6c2c419ed502012568719",
+      "size": 1414515
+    },
+    "Monster/UI_Img_LeyLineChallenge_WildHuntMaleSigurd.png": {
+      "hash": "1dd2efde94554b253006a55a6a7b0509c21235550f7c6207295e0f9e08b79fa7",
+      "size": 1457868
     },
     "Monster/UI_MonsterIcon_DragonClaw.webp": {
       "hash": "caab7a0c082b568d94c9cc7bdf2a328ae471f06b8ad2190eb55b7a77d26c0ade",
@@ -13165,6 +13257,14 @@
       "hash": "07cd4e2a4c75854ffd953c07b17fa9c422586842e82e86ab78ec3353e4e03432",
       "size": 22496
     },
+    "UI_Costume_CharlotteCostumeDong.webp": {
+      "hash": "84b8d078b889a4427fd34eda4d2ddba641b605791d696cbf745b1c54b15dc48c",
+      "size": 253870
+    },
+    "UI_Costume_CitlaliCostumeXia.webp": {
+      "hash": "eccb53e6a088e13ebdff347c1908d1514460be3ec7ac7f317974a42d90788464",
+      "size": 353200
+    },
     "Weapon-Icon/UI_EquipIcon_Bow_Alkonost.png": {
       "hash": "0c291931d78f324e389e48ef6519ba02428e18bf80e855da8847060d2d2f21cd",
       "size": 21718
@@ -15093,6 +15193,10 @@
       "hash": "49961cad340d708e72fe646c87b587bb64895c28faa791941389b5d4952e39ee",
       "size": 13816
     },
+    "Weapon-Icon/Weapon_Appearance_Super_Awesome_Magic_Key.webp": {
+      "hash": "709934f509143d62e548ae91c0318858eaac9d65c477551cab3723d0eda339ea",
+      "size": 21428
+    },
     "Weapon-Img/UI_Gacha_EquipIcon_Bow_Alkonost.webp": {
       "hash": "42959c4f0e46d3697f25fb4b4087d7ec4e7ed3a393cb8b7213ac40c54b1e6e66",
       "size": 51150
@@ -15765,6 +15869,10 @@
       "hash": "5d95aa3b7592af13fd5f5e0a1925590f3c6469c7855b3c80f272f230df9c6dea",
       "size": 30326
     },
+    "Weapon-Img/UI_Gacha_EquipIcon_Claymore_Super_Awesome_Magic_Key.png": {
+      "hash": "7a7f9fba2d9ce9f87d165853f45ac2013feaa3fcc9133c43cca6e667ffcb6e7e",
+      "size": 143001
+    },
     "Weapon-Img/UI_Gacha_EquipIcon_Claymore_Theocrat.webp": {
       "hash": "1e88614bf19241cdd232e34440567dd5a52ea7e56edea9d56a0695023cc13804",
       "size": 34688
@@ -16292,102 +16400,6 @@
     "Weapon-Img/UI_Gacha_EquipIcon_Sword_Zephyrus.webp": {
       "hash": "93979598747165122d3d443e099ad5958c2372d4addbc3c70fa234278cc84768",
       "size": 14858
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_Archdeacon.png": {
-      "hash": "6c20fab523c067998e8552d3a809cd1fac318d75a30fb6bcbf4ffb9c34f5eede",
-      "size": 1668623
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_Dendrite.png": {
-      "hash": "01bcd3ded679632cb47e74f0a503ce25e93be36710dbc7e09ae198ae4a093a75",
-      "size": 1472251
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_DragonClaw.png": {
-      "hash": "2ed845f7c7e758bc0b8db28af6339d92750e371d95abca943dba64267e00b415",
-      "size": 1183147
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_DragonCollar.png": {
-      "hash": "f984ec6000afb63aed1b71ffb43617b10f5ff45422b6e653dcc4f435addb20ff",
-      "size": 1272093
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_FatuusEscadronIce.png": {
-      "hash": "c85dfca29c86cd87ad100918af248e8362620c2be0bb7d50420bc97ddde9453a",
-      "size": 1500819
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_GargoyleFafnir.png": {
-      "hash": "aca3944cf9e40d5d7a9b2351a5f241f14230adff1659837075687aedf4667166",
-      "size": 1595163
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_Gastrobot01.png": {
-      "hash": "71e7da6f79904a84e276568f347005fa7d6eab8264dca2e9b03752f467f41fe9",
-      "size": 1424399
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_Gravitas.png": {
-      "hash": "0758e89cc5a56f06f6d7cc83f48e79ea097d741c2eb5f059ec97d4246193dd21",
-      "size": 1414013
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_HermitCrabMatureElite.png": {
-      "hash": "76f687cd1bba53f14dcbcbf564b2b6b67137dbfe088f276959de7e389de6c5a9",
-      "size": 1398675
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_HermitCrabPrimo.png": {
-      "hash": "c7bfe1033d83549960ec0511cbd3fc2baaef326f20fe2c81bf1f111128cba79c",
-      "size": 1352704
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_HerraFrost01.png": {
-      "hash": "a677d5f072ce338335b478cc16a19aebb1566ed9f632593dbb7117d6f905be3c",
-      "size": 1778362
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_LavaTitan.png": {
-      "hash": "f8d422a6633b396ef4e9fb1e977553dd44290d915b629730d60afbe6f40e1290",
-      "size": 1246662
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_LloigorPrimo.png": {
-      "hash": "1b957eb3054aa4adc03936222321ad832535c9b4d194c90220e7ff694523f9bf",
-      "size": 1230700
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_MagbeastGecko.png": {
-      "hash": "d0af6033512fab5d7ebbbfacfb87d3fa9e0a0e4144e8034b0cf88bc079e620ca",
-      "size": 1346554
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_Magbeast_Steppenwolf.png": {
-      "hash": "1a6c9c9ce03486d46f6c1010826670ca649cf560bfbb5e47907a096d3d2a1005",
-      "size": 1138001
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_MandragoraElite.png": {
-      "hash": "19d0d29865279780e29f04e7ab73a963695171ecd1c7a9c0a6125deebc6d8f81",
-      "size": 1027090
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_Monitor_02.png": {
-      "hash": "b8eb37b85b9230482a6461c1b229d9368ec24182a11227fea65bd35bdc501068",
-      "size": 1108397
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_Narcissusborn.png": {
-      "hash": "5c7ba57d55a795b2e6c786220f3027097a49ee75e4eed45310b999f19f07c166",
-      "size": 1266603
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_Natsaurus_Shamansaurus_Normal.png": {
-      "hash": "9f8769ef78e6deff75661bb6c6d216833b560fe5bc2340b4938eb9132cb49c13",
-      "size": 1459540
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_OprichnikLanceArquebusRodya.png": {
-      "hash": "1ca6290847f849444c8686e9e196160455ace481dcab9f1bfe28ef058b5938d6",
-      "size": 1511747
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_Tenoyollotzin.png": {
-      "hash": "23fc46ae912de44ab313ba1e1ab8dae4e822e97c7d8d0e635c1f2a5f0cadd35d",
-      "size": 1293847
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_TortoiseElectric.png": {
-      "hash": "f7f2b2fed51e876127cccfb9b45aee0ab64f83a668013e340be5132f791116ac",
-      "size": 1248728
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_Watcher_Primo.png": {
-      "hash": "4aefc95ea1dbd2d7de139ab6fbce1734f76cd898faf6c2c419ed502012568719",
-      "size": 1414515
-    },
-    "Weapon-Img/UI_Img_LeyLineChallenge_WildHuntMaleSigurd.png": {
-      "hash": "1dd2efde94554b253006a55a6a7b0509c21235550f7c6207295e0f9e08b79fa7",
-      "size": 1457868
     },
     "Web/Web_icon_cocogoat.png": {
       "hash": "d3775e4428f515399c873d95a2768cb0d8dddcab1ae6bd26acb33a5f106f0e60",

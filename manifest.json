@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29T15:42:34.092Z",
+  "generated": "2026-07-01T07:31:14.806Z",
   "files": {
     "Char-Avatar/UI_AvatarIcon_Aino.png": {
       "hash": "6d0d39fcddf05e7d79ab8225c6117369b951290b43b9d29d7049b93f797fd296",
@@ -5085,6 +5085,10 @@
       "hash": "e23f1cd715477cd3609293a614d2aca8c0bf1ead7201e6cba93dd2935b10aa5e",
       "size": 4998
     },
+    "Char-Talent/UI_Talent_S_PlayerElectric_07.webp": {
+      "hash": "0be3a640c53ba7f4c18dc30e3d15c38847322a83689c5cfa714d7317d2798740",
+      "size": 3468
+    },
     "Char-Talent/UI_Talent_S_PlayerFire_01.webp": {
       "hash": "5046a30b8f7d23ba0a63cb5d4cef716e501071342acc763a815c749cd997536b",
       "size": 4584
@@ -5108,6 +5112,10 @@
     "Char-Talent/UI_Talent_S_PlayerFire_06.webp": {
       "hash": "4eb7e274de4b50806dfb1cca9a14e6c20daaa39a337a8d90beaa754bf20ea0e8",
       "size": 5058
+    },
+    "Char-Talent/UI_Talent_S_PlayerFire_07.webp": {
+      "hash": "caafc8f4b00d123b5e7e04f8023634ed47fa55fc5ae17b923a34a2fbe22d3b3b",
+      "size": 5558
     },
     "Char-Talent/UI_Talent_S_PlayerGrass_01.webp": {
       "hash": "28ea0f69c8c9059df34068244cc709b080cbd70a3b69eedd9599ddad761da0ce",
@@ -5157,6 +5165,10 @@
       "hash": "6d5e173efc0a11f5429ff5b56cbe622357dcbbc338f659894aad4c5ad0954d63",
       "size": 5212
     },
+    "Char-Talent/UI_Talent_S_PlayerRock_07.webp": {
+      "hash": "6f1b54fe38b520c5ab1624e351c48f4124fe45f3a0378dda0236689378811bb4",
+      "size": 3704
+    },
     "Char-Talent/UI_Talent_S_PlayerWater_01.webp": {
       "hash": "4e8e4b2a64774fb71197321181442697cce1fc57d76a29bfb47490b26079ea87",
       "size": 5330
@@ -5181,6 +5193,10 @@
       "hash": "3c0ca1c78ebfab7b41f6f7e402d5ec432830d5869763fc5d8a9b282c9205b112",
       "size": 4248
     },
+    "Char-Talent/UI_Talent_S_PlayerWater_07.webp": {
+      "hash": "3f6db86b96dfeb7576756b3ed5bea755f08d4d77a00c495d569c723b4fee7c11",
+      "size": 4112
+    },
     "Char-Talent/UI_Talent_S_PlayerWind_01.webp": {
       "hash": "dfff11ebaf0325ee1fb64963ffa2a1d23766a45666bbb7e80327d707d9f5423b",
       "size": 5428
@@ -5204,6 +5220,10 @@
     "Char-Talent/UI_Talent_S_PlayerWind_06.webp": {
       "hash": "7bb583b83c7f4ac893d1b6ace635aa22a08694e24b7455a94d9890da4602dd5b",
       "size": 4816
+    },
+    "Char-Talent/UI_Talent_S_PlayerWind_07.webp": {
+      "hash": "05a920cf1455f7aeed5cd245743944677ae965f8d94e90ac08f348a05b35f5e8",
+      "size": 3832
     },
     "Char-Talent/UI_Talent_S_Prune_01.webp": {
       "hash": "2ee9f4e0ad82f2d6ecdc06e3142ed05a772b35cfa0ca277f89638125340d10ab",
@@ -6813,6 +6833,10 @@
       "hash": "0f6f2c2b943810317c7a28a681c2ef33db59a1052eace686fa07baf36707831f",
       "size": 5168
     },
+    "Char-Talent/UI_Talent_U_PlayerGrass_03.webp": {
+      "hash": "69d3bb2d9ed475a0d26f08871360ca85c2ffb8e8d4fe00678dbd6ede84fec77d",
+      "size": 3728
+    },
     "Char-Talent/UI_Talent_U_PlayerRock_01.webp": {
       "hash": "a487b867df6896a89a1780ebd6de06af0ffc0166952a8e40a21993332fd7dc02",
       "size": 4044
@@ -7821,6 +7845,14 @@
       "hash": "72afa039d499cabd7edeaa4442dafb4035689ab8755bcef0702d93b7c5664df0",
       "size": 613451
     },
+    "GachaHistory-Char/Gacha_6.7_01_01.jpg": {
+      "hash": "93ff4307e6640ef552da769fd7fd31f336318812bc3e1a91850151f637ee7493",
+      "size": 1253590
+    },
+    "GachaHistory-Char/Gacha_6.7_01_02.jpg": {
+      "hash": "0a525e056b9eb09ddbf2cd1a79d87a6ce9f40829896f19b144dee6f751ce6dd4",
+      "size": 1329643
+    },
     "GachaHistory-Compilation/Gacha_Compilation_4.5_01_01.webp": {
       "hash": "6197ffec1c8b6bba42771376e3c070233fcb964b96cb4ab096cd67cf01b7760a",
       "size": 165570
@@ -7845,13 +7877,17 @@
       "hash": "c4983949ddb988030eff38807993be5a499e9feacdb2b56f831c3ff53eac660f",
       "size": 306522
     },
-    "GachaHistory-Compilation/Gacha_Compilation_6.7_01_01.jpeg": {
-      "hash": "26e754970b678a817c1768e2ccd186c451613604f33e7222ef98a5550643983c",
-      "size": 76394
+    "GachaHistory-Compilation/Gacha_Compilation_6.7_01_01.jpg": {
+      "hash": "6f33dbf0c2a1d6cb2a87d0e56b23b201c941014455921104b61ff289a2683753",
+      "size": 1050629
     },
-    "GachaHistory-Compilation/Gacha_Compilation_6.7_01_01.png": {
-      "hash": "05d7b61405e40bfee13615ee200b1787964188935bea6d571580231d21fd25a0",
-      "size": 796192
+    "GachaHistory-Standard/Gacha_Standard_01.jpeg": {
+      "hash": "badad729802011766f965f5a100f9ccc064757ac9b9e4cc2a2cb9f645a96d51f",
+      "size": 111132
+    },
+    "GachaHistory-Standard/Gacha_Standard_02.jpeg": {
+      "hash": "104fddab0e0f87f04b731062409b346b4355a09cd250b093e152db10b0d8e1b6",
+      "size": 72684
     },
     "GachaHistory-Weapon/Gacha_Weapon_1.0_01_01.png": {
       "hash": "8ad43f9f8c4d3e64d9a51afbbd24651b14fa0c99ad5966274021499c627e4bcc",
@@ -8253,13 +8289,9 @@
       "hash": "b237ebf9620e6e93275aed7c36756101672704ef42b9df3d3877b67a3dd8cd9d",
       "size": 364441
     },
-    "Gacha_Standard_01.jpeg": {
-      "hash": "badad729802011766f965f5a100f9ccc064757ac9b9e4cc2a2cb9f645a96d51f",
-      "size": 111132
-    },
-    "Gacha_Standard_02.jpeg": {
-      "hash": "104fddab0e0f87f04b731062409b346b4355a09cd250b093e152db10b0d8e1b6",
-      "size": 72684
+    "GachaHistory-Weapon/Gacha_Weapon_6.7_01_01.jpg": {
+      "hash": "cb6cb3d41fad3d23d2cbfc7b036f45ed11a8546769b3483dd4db5d9b61bdf52e",
+      "size": 788027
     },
     "Item/UI_ItemIcon_100021.png": {
       "hash": "b166bcf7a1606f32643334af1afc163ad3c9482a9d571f1476d4140acefdc0a9",
@@ -10408,6 +10440,14 @@
     "Item/UI_ItemIcon_113087.webp": {
       "hash": "70949a3b00e53b3d589903e92ba2f887fd3ea8494da7f2bf8661a61169958d9c",
       "size": 14802
+    },
+    "Item/UI_ItemIcon_113088.webp": {
+      "hash": "697dab8efdce1c86c3e5a90ad83eab0a6e81f799a8926ab2d8427a2e05eaceef",
+      "size": 26796
+    },
+    "Item/UI_ItemIcon_113089.webp": {
+      "hash": "3374538ab9286160b42d4c1101c391f7c28d51b1fc0daa7bfc003f0dc2978276",
+      "size": 33262
     },
     "Item/UI_ItemIcon_114001.png": {
       "hash": "1f6f3e06bb894366248372730b3464552318c4749b9cf8bfa158dcdc04bbcf62",
@@ -16405,6 +16445,10 @@
       "hash": "d3775e4428f515399c873d95a2768cb0d8dddcab1ae6bd26acb33a5f106f0e60",
       "size": 8131
     },
+    "Web/Web_icon_fandom.webp": {
+      "hash": "e68f6c5e3e2c5dc17c7c01d7b35971a882b6327dee08ba5f1965bda555e236fd",
+      "size": 3078
+    },
     "Web/Web_icon_genshin_dictionary.png": {
       "hash": "52be41bf8d0905b4b925f23720ec922a47dd3b409af817b5b270427099ff88e2",
       "size": 5657
@@ -16417,6 +16461,10 @@
       "hash": "926c34421809fd032b4628d16c6c6811940df4ef2943e58db02d797b4dff5d50",
       "size": 98844
     },
+    "Web/Web_icon_mihoyo_bbs.png": {
+      "hash": "7ab1317f3e3e075d4078f53a4823f408c86eb9ba31f51b0d5fe0d620af32a7b5",
+      "size": 53550
+    },
     "Web/Web_icon_nanoka.png": {
       "hash": "ff91c9b622bd6fd254e5371dfc066aba39251d15f81595f39d9c023b9875effd",
       "size": 106565
@@ -16428,6 +16476,10 @@
     "Web/Web_img_cocogoat.png": {
       "hash": "eb25024c30909b248ff23c631bbb678a3380f994ac9f0a88784aefa99c73b6c9",
       "size": 566066
+    },
+    "Web/Web_img_fandom.jpeg": {
+      "hash": "b4d273d6c40487709b1d58273de16d928022f63015d2435ba4d21a6cba799d8c",
+      "size": 639596
     },
     "Web/Web_img_genshin_dictionary.png": {
       "hash": "dbe566c61623e4f12d7ad5f19e5be2b33e23a1ed3f82294a8135b4a518c8247d",
@@ -16444,6 +16496,10 @@
     "Web/Web_img_gg_artifact.png": {
       "hash": "63aaf31a03dd3d3ebc3ac0ea092c7d168799ae7934e936e278767eb29d889ee9",
       "size": 7884963
+    },
+    "Web/Web_img_mihoyo_bbs.jpeg": {
+      "hash": "167710fc97e702a5167dca82c1d3d9f4b4a53c6aa2ca64f2405ba00f3683efa5",
+      "size": 222801
     },
     "Web/Web_img_nanoka.jpeg": {
       "hash": "c3f3bddfab05e76100f631d527508e95922d1bd284455f17fe15f2a114d6f0ad",

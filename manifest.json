@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T07:31:14.806Z",
+  "generated": "2026-07-02T07:40:06.640Z",
   "files": {
     "Char-Avatar/UI_AvatarIcon_Aino.png": {
       "hash": "6d0d39fcddf05e7d79ab8225c6117369b951290b43b9d29d7049b93f797fd296",
@@ -16,6 +16,10 @@
     "Char-Avatar/UI_AvatarIcon_Aloy.png": {
       "hash": "652f4604797cb645c281ba21cdb9c739b8086d81b7e53b2b407c8df6c9f92fe9",
       "size": 27642
+    },
+    "Char-Avatar/UI_AvatarIcon_Alyosha.png": {
+      "hash": "14ad5ccf9d0c28352449309cf13419fa3329025bfa621c8e6cbccead7b8c059c",
+      "size": 29764
     },
     "Char-Avatar/UI_AvatarIcon_Ambor.png": {
       "hash": "725e63543dc253d416eaca442685c5cbfc773ec7eff1f79a3ae0915e4efb07f3",
@@ -340,6 +344,10 @@
     "Char-Avatar/UI_AvatarIcon_Noel.png": {
       "hash": "b519defc8ccbe35d6dec5e0315372e359329dfbdb0b9e7ceb81de4316739e7f4",
       "size": 31354
+    },
+    "Char-Avatar/UI_AvatarIcon_Odette.webp": {
+      "hash": "123a93f3328ba78bff6018c12e374aee4edefb618f0512fafcd26e0496b18243",
+      "size": 29406
     },
     "Char-Avatar/UI_AvatarIcon_Olorun.png": {
       "hash": "d728c237758fc22690beab806228c2f0db79ba94f7cc005c9781b3be8bab65b4",
@@ -741,6 +749,10 @@
       "hash": "f8c6be4c1fb662e223c896fc16becbd8c11de27674edc302ac0d5fb40a96198b",
       "size": 893530
     },
+    "Char-Img/UI_Gacha_AvatarImg_Alyosha.png": {
+      "hash": "7adcf612f76e2ad8c11932565484617cb36797a45cf517d3c06d7417afd8c5c5",
+      "size": 306848
+    },
     "Char-Img/UI_Gacha_AvatarImg_Ambor.png": {
       "hash": "bb182ee8d623a1857f672eff458981ecb1ac5d340c84ac73915c062b9c53f4e7",
       "size": 609242
@@ -1060,6 +1072,10 @@
     "Char-Img/UI_Gacha_AvatarImg_Noel.png": {
       "hash": "cb758c9d21ceafbdafd919a3fdd7d0ce2d41dd51ff2551d540b4dae8d0f539c2",
       "size": 726193
+    },
+    "Char-Img/UI_Gacha_AvatarImg_Odette.webp": {
+      "hash": "f0bf7c8e4c4bf78983c26c087f38f48879b62ccd950a1e72a12b0124d2dd6e09",
+      "size": 616474
     },
     "Char-Img/UI_Gacha_AvatarImg_Olorun.png": {
       "hash": "e9eb546b5275e8067112b2e38ce12103798e031d119174bbbe388dc0951ac935",
@@ -1745,6 +1761,10 @@
       "hash": "5f9bc21a7f7339391c3b264a94ab2c75ecb8cee0d8162a21d2cc23daa1681bfe",
       "size": 4426
     },
+    "Char-Skill/Skill_E_Alyosha_01.webp": {
+      "hash": "221bec20c1104a5d5684930d7e97c7d9fb82a0b51de4144beb0907dbda519808",
+      "size": 2940
+    },
     "Char-Skill/Skill_E_Ambor.png": {
       "hash": "0fb6c4919a566576b1ec828f53b0652b1bd87697531dd07dd68111916be6af25",
       "size": 3468
@@ -2057,6 +2077,10 @@
       "hash": "87c4ac8661f0e2cccd0267e33b08bfad9faf3ba9449a26743b082ec3b6c94ab4",
       "size": 3907
     },
+    "Char-Skill/Skill_E_Odette_01.webp": {
+      "hash": "c05dd2c49eaf0cde36f933d5b97147281990d478c671559e569aa7617bc10656",
+      "size": 3356
+    },
     "Char-Skill/Skill_E_Olorun_01.png": {
       "hash": "3390e92cf59db0aebeb234fd930ffeed175abfee360c36b727752043503ce42e",
       "size": 5033
@@ -2072,6 +2096,10 @@
     "Char-Skill/Skill_E_PlayerGrass_01.webp": {
       "hash": "2c53555a5a020bf943b827ee1ce6e8b0702aa0d7b529ff2c2b372902cf434c11",
       "size": 5374
+    },
+    "Char-Skill/Skill_E_PlayerIce_01.webp": {
+      "hash": "ff37ad40ca947d7696ded612a53d75ebf40ba5e462736e94f40dbb559c163d49",
+      "size": 4928
     },
     "Char-Skill/Skill_E_PlayerRock_01.webp": {
       "hash": "fb3082e0e46f4502c053c0a72de324bd808f384b432f992552599d42b6dfacb6",
@@ -2236,6 +2264,10 @@
     "Char-Skill/Skill_S_Aloy_01.png": {
       "hash": "d783410dcc7849cc2632806506d7b290ae4688531c5512caacd455e51ceb933c",
       "size": 6311
+    },
+    "Char-Skill/Skill_S_Alyosha_01.webp": {
+      "hash": "f50479fa6694065dd6b343ef53933403f668e59c96033580f38bd6c5d4e4fb3a",
+      "size": 4488
     },
     "Char-Skill/Skill_S_Ambor_01.png": {
       "hash": "aac896a4722990ca9e1d0fa0fa061e4fdd540843e01fd6870d46619b26352bbd",
@@ -2557,6 +2589,10 @@
       "hash": "b6f82dab340895f640ccefa0580f53bfe935c0cada50fc1bc6b207437efd037a",
       "size": 6251
     },
+    "Char-Skill/Skill_S_Odette_01.webp": {
+      "hash": "c4622598c31cbe7280de563985bd52b3cc00b876b2be4eac3f64156f4d2b9105",
+      "size": 5090
+    },
     "Char-Skill/Skill_S_Olorun_01.png": {
       "hash": "3f9271dbcb34dd4f785c526029abd05b1f7f31990cee12d884d4db8d997c6909",
       "size": 6814
@@ -2572,6 +2608,10 @@
     "Char-Skill/Skill_S_PlayerGrass_01.webp": {
       "hash": "30b8be174f5f2d16d254dbfe76f226527e016337cdcbe263e5e751a2f76a2ae6",
       "size": 2908
+    },
+    "Char-Skill/Skill_S_PlayerIce_01.webp": {
+      "hash": "627cec1dfe1c894703476ee32f762bb94024c37b3ef1e83294b73b26a17722c4",
+      "size": 3012
     },
     "Char-Skill/Skill_S_PlayerRock_01.webp": {
       "hash": "a487b867df6896a89a1780ebd6de06af0ffc0166952a8e40a21993332fd7dc02",
@@ -2916,6 +2956,38 @@
     "Char-Talent/UI_Talent_S_Aloy_Lock.png": {
       "hash": "43c92b60d51844bef952c1c2bf278c6dc5bb57050b6cd48f724847cf092d7682",
       "size": 3764
+    },
+    "Char-Talent/UI_Talent_S_Alyosha_01.webp": {
+      "hash": "c2ab8e9875e4a0e21192869e163157722eb3da7815ebeaa7141e7cf52e6e4edc",
+      "size": 4844
+    },
+    "Char-Talent/UI_Talent_S_Alyosha_02.webp": {
+      "hash": "0dc0df4a76f70179544f8e2b971b8e8907e1e813e54d9d8a3cb4aa317547114d",
+      "size": 4426
+    },
+    "Char-Talent/UI_Talent_S_Alyosha_03.webp": {
+      "hash": "c91592b606435962d8262b969e5277e49941a76a1172fc072e38c3877582a700",
+      "size": 4712
+    },
+    "Char-Talent/UI_Talent_S_Alyosha_04.webp": {
+      "hash": "3e93296ffc9c559db4573d51aafd3277629d5a97857a3c98ca853f7e6c7c4285",
+      "size": 4468
+    },
+    "Char-Talent/UI_Talent_S_Alyosha_05.webp": {
+      "hash": "43c19e10d06e2f37ecb88cc499597d9d60e18f6a89e0991900d89b1b35edde7d",
+      "size": 4634
+    },
+    "Char-Talent/UI_Talent_S_Alyosha_06.webp": {
+      "hash": "b3d9c59d815e5718943df24cc7b5990582af711c4b03db646a92ac74ae6c6fe3",
+      "size": 3846
+    },
+    "Char-Talent/UI_Talent_S_Alyosha_07.webp": {
+      "hash": "85876dd675c1db3d4eb81c5213c9947d834bf27192bef9ce379eb3768e362a6d",
+      "size": 4054
+    },
+    "Char-Talent/UI_Talent_S_Alyosha_08.webp": {
+      "hash": "e2e4b915913f34080aaaae85471deae14d3fefa7074584bb25c9516a99da9131",
+      "size": 3240
     },
     "Char-Talent/UI_Talent_S_Ambor_01.png": {
       "hash": "14b06895d477994d9ef06bbf9aa1cc54179906a32c0daacfef5c434d5bfff66f",
@@ -3528,6 +3600,10 @@
     "Char-Talent/UI_Talent_S_Diona_06.png": {
       "hash": "58c54d5af2719b28a587363b5ade2c09df43772a01899cc8fc6941a50ae0593b",
       "size": 7503
+    },
+    "Char-Talent/UI_Talent_S_Diona_08.webp": {
+      "hash": "e068e9f8e5dbba177b7643b247a8e87a062efd31c5c5b4d4258ea2861706b9ba",
+      "size": 4882
     },
     "Char-Talent/UI_Talent_S_Dori_01.png": {
       "hash": "2781c742b311980a801b54978511679cf20897622e93995879e3a3ec90f16003",
@@ -5029,6 +5105,38 @@
       "hash": "24127ff2447e01549dbba2d033e586be9c53ce7ae2e20deed4085fa90203f833",
       "size": 6611
     },
+    "Char-Talent/UI_Talent_S_Odette_01.webp": {
+      "hash": "e2f225869febafaa8c9857995e731d43d73c4a13105a0b7c2a48dd890e09dd4b",
+      "size": 5708
+    },
+    "Char-Talent/UI_Talent_S_Odette_02.webp": {
+      "hash": "c9f24c40f52872c7d5d23b44d8ba8792cb29b27da804b94eabf53fa41288c4b6",
+      "size": 4636
+    },
+    "Char-Talent/UI_Talent_S_Odette_03.webp": {
+      "hash": "34d7e1519d2211f87a9a0365c7b404d0ecd0999202fd3c29ab47a765ba7875df",
+      "size": 4230
+    },
+    "Char-Talent/UI_Talent_S_Odette_04.webp": {
+      "hash": "81038cbf4cd44454ed4413ee9d61341bf293cde97aa3d571b2a3aa64c6f82268",
+      "size": 5076
+    },
+    "Char-Talent/UI_Talent_S_Odette_05.webp": {
+      "hash": "ff16608dec2c763284ee74b80173c9671181ed5d4e33a396c2f150ba56208d98",
+      "size": 4318
+    },
+    "Char-Talent/UI_Talent_S_Odette_06.webp": {
+      "hash": "97554f5ebb27bb9a62724a04c470b75a9c0967155854ade228d9dc2b458ffe23",
+      "size": 6324
+    },
+    "Char-Talent/UI_Talent_S_Odette_07.webp": {
+      "hash": "1aaf3b208a1077b145299bf8ef7084681c7b7307198e64fb057ac5e4cb2e61de",
+      "size": 4284
+    },
+    "Char-Talent/UI_Talent_S_Odette_08.webp": {
+      "hash": "62d7dfd8bd948531409930635cae29d3c03810f95717ee2963db515fba36635f",
+      "size": 3862
+    },
     "Char-Talent/UI_Talent_S_Olorun_01.png": {
       "hash": "1c8c5ac1815bf430aecf07363dcb3ae3c7d1e65f1ec26253e44edeed237082ea",
       "size": 7169
@@ -5140,6 +5248,34 @@
     "Char-Talent/UI_Talent_S_PlayerGrass_06.webp": {
       "hash": "419cf796ac2ba67afc1189f5f9b450440f844cd9cc79c0f00a6928f0c7af8c9a",
       "size": 5124
+    },
+    "Char-Talent/UI_Talent_S_PlayerIce_01.webp": {
+      "hash": "e661fe25a7179fb60c3af133f4f29b9b53b33f0f074b997e261150780d467890",
+      "size": 4860
+    },
+    "Char-Talent/UI_Talent_S_PlayerIce_02.webp": {
+      "hash": "0cb31c0dafcf0a1ac6615fc2aa175abeda4543963dd558dcd845c8786dd32cca",
+      "size": 4854
+    },
+    "Char-Talent/UI_Talent_S_PlayerIce_03.webp": {
+      "hash": "0d04a86ee1100e20440abe9f9f461f369afbb4a182c4f4160a9d832efc6cb124",
+      "size": 4682
+    },
+    "Char-Talent/UI_Talent_S_PlayerIce_04.webp": {
+      "hash": "b188b575d430f9b8db0e4951b0e16c5730f4dd6c11893de30cfb6b50ce2e487c",
+      "size": 4282
+    },
+    "Char-Talent/UI_Talent_S_PlayerIce_05.webp": {
+      "hash": "e01839a50dbeeee48a4b290f55ed02f854eb47e0aa383324fe59e3a0945e9b56",
+      "size": 4066
+    },
+    "Char-Talent/UI_Talent_S_PlayerIce_06.webp": {
+      "hash": "b12300d539bbc77b8d835d565a09cc10e78a826d9c76f48dfe7a382431144d70",
+      "size": 4176
+    },
+    "Char-Talent/UI_Talent_S_PlayerIce_07.webp": {
+      "hash": "d34b657bcfa1b5fb344cb897571ff0b636468b1777d1f06f2b6dfcbf66f031ea",
+      "size": 4388
     },
     "Char-Talent/UI_Talent_S_PlayerRock_01.webp": {
       "hash": "ef8c34610979edd3e18f81a7b7983024f17f25f436f332a9107799546332ee72",
@@ -6185,6 +6321,14 @@
       "hash": "9e1d535f41880962103a66a2cd2e9d3bb99b2b5300df9aa69c84092289805683",
       "size": 8245
     },
+    "Char-Talent/UI_Talent_U_Alyosha_01.webp": {
+      "hash": "f50479fa6694065dd6b343ef53933403f668e59c96033580f38bd6c5d4e4fb3a",
+      "size": 4488
+    },
+    "Char-Talent/UI_Talent_U_Alyosha_02.webp": {
+      "hash": "a9fef185c60bfdda39aec86eaa5806043a28bb642967e063abf5c5b72b397e6d",
+      "size": 5826
+    },
     "Char-Talent/UI_Talent_U_Ambor_01.png": {
       "hash": "aac896a4722990ca9e1d0fa0fa061e4fdd540843e01fd6870d46619b26352bbd",
       "size": 8889
@@ -6801,6 +6945,14 @@
       "hash": "c35d9e13dd8aa81bd68089ce75d78df7e8ec1901de93a09ed89fd21684e23d78",
       "size": 5595
     },
+    "Char-Talent/UI_Talent_U_Odette_01.webp": {
+      "hash": "c4622598c31cbe7280de563985bd52b3cc00b876b2be4eac3f64156f4d2b9105",
+      "size": 5090
+    },
+    "Char-Talent/UI_Talent_U_Odette_02.webp": {
+      "hash": "570652e71dce7250edf15b16d223e2b5fd7d021e28aff4bae8d378ab1fd38868",
+      "size": 5144
+    },
     "Char-Talent/UI_Talent_U_Olorun_01.png": {
       "hash": "433397564d378a8ac7cb501cd543efcbe9ed99affa6cb28b101cc39f51a104dd",
       "size": 8457
@@ -6836,6 +6988,14 @@
     "Char-Talent/UI_Talent_U_PlayerGrass_03.webp": {
       "hash": "69d3bb2d9ed475a0d26f08871360ca85c2ffb8e8d4fe00678dbd6ede84fec77d",
       "size": 3728
+    },
+    "Char-Talent/UI_Talent_U_PlayerIce_01.webp": {
+      "hash": "215d37b12bcebb3b69aa3fb6e35c322a00cff4b1bbc27ce67bb22fc7fb79b404",
+      "size": 4632
+    },
+    "Char-Talent/UI_Talent_U_PlayerIce_02.webp": {
+      "hash": "ff37ad40ca947d7696ded612a53d75ebf40ba5e462736e94f40dbb559c163d49",
+      "size": 4928
     },
     "Char-Talent/UI_Talent_U_PlayerRock_01.webp": {
       "hash": "a487b867df6896a89a1780ebd6de06af0ffc0166952a8e40a21993332fd7dc02",
@@ -8529,6 +8689,14 @@
       "hash": "fdb542f67276ce7161984da065ce014101032cc357b60d5441a56fb4151a0cd4",
       "size": 24316
     },
+    "Item/UI_ItemIcon_101275.webp": {
+      "hash": "96cd07f9ae2ae8a72146f8bffae806893079af12bae7a4696292f5d37fa45d9c",
+      "size": 19804
+    },
+    "Item/UI_ItemIcon_101276.png": {
+      "hash": "87fccf31964c21b3f7b6b72e0eb0781c6aa616b517d0678eac9bc6bf533291f3",
+      "size": 20950
+    },
     "Item/UI_ItemIcon_104101.webp": {
       "hash": "23384b1baf878fb774040e7ec49a9286f271c8ed6134937af54cd5bc04e14dae",
       "size": 10892
@@ -8940,6 +9108,38 @@
     "Item/UI_ItemIcon_104364.png": {
       "hash": "941d49788f6fe65e6d0862e914d7e9946ce449fac10bca7ee346b7adb8d57033",
       "size": 66292
+    },
+    "Item/UI_ItemIcon_104365.webp": {
+      "hash": "d1a11e54561b00bd97a1eeced1a4bec8b30f3b3544af1e08238616cfa6a8edf6",
+      "size": 17678
+    },
+    "Item/UI_ItemIcon_104366.webp": {
+      "hash": "4b06cbc97aadb5689f4c4326dd847764aa3c5db02189972c42c6060a4d77b28c",
+      "size": 21612
+    },
+    "Item/UI_ItemIcon_104367.webp": {
+      "hash": "a85db4a00b53172ead0ebd6ef40bf3384983cd0abc7a3e20ab090458ef953a31",
+      "size": 23070
+    },
+    "Item/UI_ItemIcon_104369.webp": {
+      "hash": "2f0f026dd09b2c9e8ef5af3418c4edd9e26147dabf2eaab2461a637d04939856",
+      "size": 21462
+    },
+    "Item/UI_ItemIcon_104370.webp": {
+      "hash": "27e6d841ed599203438c52357c7995ddbed0f0399fc134a0d1627aa680c73ba8",
+      "size": 23008
+    },
+    "Item/UI_ItemIcon_104371.png": {
+      "hash": "4e9a93805183d3f20dbed47fc5b1acff2cfbc5fcf5d458b5ae856f00d8d3eb6a",
+      "size": 18266
+    },
+    "Item/UI_ItemIcon_104372.png": {
+      "hash": "ad8b25700d2cd0999da998564a41e5d6221c8f5244e262297bf79ac17aceffac",
+      "size": 21886
+    },
+    "Item/UI_ItemIcon_104373.png": {
+      "hash": "334d8ff8d57df06457d89344675ac038704205af42d6671b54bd04241f8ad9e4",
+      "size": 23148
     },
     "Item/UI_ItemIcon_108010.png": {
       "hash": "f587c980092040a0e23325e4fdb24468bd48f17b08cbc16e78b8c76122c8a478",
@@ -9412,6 +9612,14 @@
     "Item/UI_ItemIcon_108880.webp": {
       "hash": "9ce8192d79bc27ece35396f18ec60aaedc75eba2abd40f5f1ede59c23841deb5",
       "size": 28720
+    },
+    "Item/UI_ItemIcon_108895.png": {
+      "hash": "6d3358682ea34f7b93ed30ea97a6908b35d76a58ccf2e66a89384442bff02da7",
+      "size": 17440
+    },
+    "Item/UI_ItemIcon_108896.png": {
+      "hash": "34fb17db1ad44ab8fadc8359dd858fc75b81f37b31590d7c2d4bb385860d1c5a",
+      "size": 19764
     },
     "Item/UI_ItemIcon_112002.png": {
       "hash": "5b835e8fc4e7cd9050760aa55b4e025cd9a7003d4b571f559c6bc3260a738989",
@@ -10833,6 +11041,54 @@
       "hash": "1c2b2bf91e17196d86ae8f25817fff34ebc135a0b8ad3d2e8512afd0bd1fe01c",
       "size": 17010
     },
+    "Item/UI_ItemIcon_114085.png": {
+      "hash": "3efa466dda47278360849cc595ea9c20f16372e1a293ceff49103d34763dffd1",
+      "size": 13974
+    },
+    "Item/UI_ItemIcon_114086.png": {
+      "hash": "c01086c15f8ed865513986fca937ab012cd6eab5bed0f84074e0dd21a74137dd",
+      "size": 14092
+    },
+    "Item/UI_ItemIcon_114087.png": {
+      "hash": "b9c9576eb7ed554a7354e7c9ef28250e4449115b8dd5984a23b7743d75a0971e",
+      "size": 17976
+    },
+    "Item/UI_ItemIcon_114088.png": {
+      "hash": "f863678a89c84ede0761c9ece156472df081ea9ec08e71341f774243d573e6c6",
+      "size": 21686
+    },
+    "Item/UI_ItemIcon_114089.png": {
+      "hash": "4ae202aa0a42ad7b8aa682f0b50b646364b2597f575a302ec1867b2a87120ed6",
+      "size": 14042
+    },
+    "Item/UI_ItemIcon_114090.png": {
+      "hash": "240edcdf7ddb70c0e8d5640f45759b40f68ce1f9eeede6bffcaa1a232666815a",
+      "size": 15340
+    },
+    "Item/UI_ItemIcon_114091.png": {
+      "hash": "a5de573b886fe427ad617409aef8dc28877f757f4c16cc31e21ccd666822944c",
+      "size": 19904
+    },
+    "Item/UI_ItemIcon_114092.png": {
+      "hash": "17b8006a5de06a1b600233170a67b647cfe1694ed6611e983651134aff2984c4",
+      "size": 20778
+    },
+    "Item/UI_ItemIcon_114093.png": {
+      "hash": "8fc5feb3565c9b1e8f5ceccb0ebba4528bcf2cb73c0f531b994f8ba9ca34acd7",
+      "size": 12148
+    },
+    "Item/UI_ItemIcon_114094.png": {
+      "hash": "c0dd69c6b88ae52509abddc62e1dc853d9194e5c16484a633a4b3061d39b888e",
+      "size": 13186
+    },
+    "Item/UI_ItemIcon_114095.png": {
+      "hash": "5cf561c7ef0b0c3f7c04e42517f3c765bb3f50ee25eeb68dfe0ec785f1e2a664",
+      "size": 18566
+    },
+    "Item/UI_ItemIcon_114096.png": {
+      "hash": "da7f16adefe0dcd429aeb4d4d110f6cb1d1c4132e07f6477f1e0bfd2a7b4bcf6",
+      "size": 18468
+    },
     "Monster/UI_Img_LeyLineChallenge_Archdeacon.png": {
       "hash": "6c20fab523c067998e8552d3a809cd1fac318d75a30fb6bcbf4ffb9c34f5eede",
       "size": 1668623
@@ -10929,6 +11185,10 @@
       "hash": "1dd2efde94554b253006a55a6a7b0509c21235550f7c6207295e0f9e08b79fa7",
       "size": 1457868
     },
+    "Monster/UI_MonsterIcon_Chimera_Manticore.webp": {
+      "hash": "d6445fba857988fb4a6929ff408e5bd1f8541f171a4b5a9c3da8022a0a71a780",
+      "size": 31772
+    },
     "Monster/UI_MonsterIcon_DragonClaw.webp": {
       "hash": "caab7a0c082b568d94c9cc7bdf2a328ae471f06b8ad2190eb55b7a77d26c0ade",
       "size": 29372
@@ -10940,6 +11200,10 @@
     "Monster/UI_MonsterIcon_Fatuus_Escadron_Ice.webp": {
       "hash": "e6b4870fb04c4383db55d9119cbcb4ed9978a3bb1ab8feabf5e24b9b2dc9f44e",
       "size": 22862
+    },
+    "Monster/UI_MonsterIcon_Fatuus_Escadron_Wind.webp": {
+      "hash": "368f365d621a77450dba63ef4bea7309618c1ab1060d751c6db9a7aa4ef01098",
+      "size": 21732
     },
     "Monster/UI_MonsterIcon_Gargoyle_Fafnir.webp": {
       "hash": "1e924b276d0b1073c9699ad7621c26a15e45e1981f171a8ccffd1fe7a72cef1b",
@@ -13305,6 +13569,126 @@
       "hash": "07cd4e2a4c75854ffd953c07b17fa9c422586842e82e86ab78ec3353e4e03432",
       "size": 22496
     },
+    "Relic/UI_RelicIcon_15047_1.webp": {
+      "hash": "b47e66908ab7c5b400e18f5337d396fab1ff35f8f240ba43b6e80d9568d44960",
+      "size": 19372
+    },
+    "Relic/UI_RelicIcon_15047_2.webp": {
+      "hash": "90e215128a86366640fa588c2784c9705b8c2f975fc5191867313e0c469a1536",
+      "size": 17664
+    },
+    "Relic/UI_RelicIcon_15047_3.webp": {
+      "hash": "271c1f32963683f69a58405e88e00510bc9270347d8f99a4e30a0117302a5939",
+      "size": 20040
+    },
+    "Relic/UI_RelicIcon_15047_4.webp": {
+      "hash": "996d588c7f9d7e3bf3f4ff42a185ab875172d40a646f57478eefbc9abac911d1",
+      "size": 21978
+    },
+    "Relic/UI_RelicIcon_15047_5.webp": {
+      "hash": "46d9357db9e32688adc06005fec0dfc9ab670680b3e660677188ca538e344323",
+      "size": 21704
+    },
+    "Relic/UI_RelicIcon_15048_1.webp": {
+      "hash": "002ec67aa7ff803daf5b6ba0154a21729434d9abc0812ee0cc8afc1df0c562f5",
+      "size": 17822
+    },
+    "Relic/UI_RelicIcon_15048_2.webp": {
+      "hash": "782314274f90637d7c743a53383e3a3d52eaec2bf53f8179b3f7228712dee969",
+      "size": 14244
+    },
+    "Relic/UI_RelicIcon_15048_3.webp": {
+      "hash": "b627a63c988830f3d8ca6a197b2ea499545631092d2d08e48dd48bd7e6de8b34",
+      "size": 18202
+    },
+    "Relic/UI_RelicIcon_15048_4.webp": {
+      "hash": "a70573fab7d5ff2d330a060926c18645db7a5e9732d1130c644a9876fd7b41f9",
+      "size": 19528
+    },
+    "Relic/UI_RelicIcon_15048_5.webp": {
+      "hash": "3ed4aec732c901ee17a1d7f07aaf0416c13ac83a46e4b22fcc2cbaecd4a0a178",
+      "size": 21172
+    },
+    "Wallpaper/Version_5.8_Wallpaper_1.webp": {
+      "hash": "914377bc9ee2b6f8b5ac022cb363d8385f8f7ce88a616c95e23dff88d71da370",
+      "size": 1009596
+    },
+    "Wallpaper/Version_5.8_Wallpaper_2.webp": {
+      "hash": "a8f75ed4c522521221e5a412c9547bb3696cb9300d935d3fd5626a208c853d80",
+      "size": 897498
+    },
+    "Wallpaper/Version_Luna_III_Wallpaper_1.webp": {
+      "hash": "034dbb6a645924d2b16ce3a55921eda9d2514423fc901c011da96e6bcc12daa8",
+      "size": 920932
+    },
+    "Wallpaper/Version_Luna_III_Wallpaper_2.webp": {
+      "hash": "e74523f47a7c1a1482b6a89917d10d19d4254da4b0c756c55397e3ac86172cf8",
+      "size": 784986
+    },
+    "Wallpaper/Version_Luna_II_Wallpaper_1.webp": {
+      "hash": "a9691a6cf2a9e0bcb3898ab45ef9717e68fac375183ca8b0dd78c69e7967b487",
+      "size": 957054
+    },
+    "Wallpaper/Version_Luna_II_Wallpaper_2.webp": {
+      "hash": "23e86758ce3a3bd3b4608894da1d4a6bfad836d59c244166afc5ab1347a8275b",
+      "size": 820972
+    },
+    "Wallpaper/Version_Luna_IV_Wallpaper_1.webp": {
+      "hash": "2875f59992015ecfaacd620de90f729131f8d02a956f0e0886ef35e252ca06e5",
+      "size": 897686
+    },
+    "Wallpaper/Version_Luna_IV_Wallpaper_2.webp": {
+      "hash": "ed48961716f0229b857ff0a9cbb89736b84363675c8a6dc9377a1fa3104497ea",
+      "size": 945152
+    },
+    "Wallpaper/Version_Luna_IV_Wallpaper_3.webp": {
+      "hash": "9a5c3974ad5138f0017c6c3f99bd6916332de06acafd291d81782fb7e0e65f02",
+      "size": 1298932
+    },
+    "Wallpaper/Version_Luna_I_Wallpaper_1.webp": {
+      "hash": "ceb11b6476e0707310cbb2fb623ca483179f10327725f6066ae438a9aaea6e36",
+      "size": 1041908
+    },
+    "Wallpaper/Version_Luna_I_Wallpaper_2.webp": {
+      "hash": "0922ad54de9484cd714378b38618d97d493212f55050591e7c27312fbc1fb3a4",
+      "size": 700230
+    },
+    "Wallpaper/Version_Luna_I_Wallpaper_3.webp": {
+      "hash": "14e2cddd8aba0713249d38f54644839e440db2fbd51fa1301aa89ef1b0c81086",
+      "size": 1231336
+    },
+    "Wallpaper/Version_Luna_I_Wallpaper_4.webp": {
+      "hash": "4dcf1c693d0aa4e20bc6c6c65bfaac9f7904f953e99256345d90dde11405834a",
+      "size": 878882
+    },
+    "Wallpaper/Version_Luna_VII_Wallpaper_1.webp": {
+      "hash": "33f6d7f9aaa7054fd5744d6259b7951676eaf5e4655ca64272689b070a1e0249",
+      "size": 915874
+    },
+    "Wallpaper/Version_Luna_VII_Wallpaper_2.webp": {
+      "hash": "64aca7a686b360c661ac0e153a3fcf19dd5495d81a8873b517a9c4a8998097e3",
+      "size": 784142
+    },
+    "Wallpaper/Version_Luna_VII_Wallpaper_3.webp": {
+      "hash": "4f1b43fcdf08be6d40adb4829b0dbb65bace199b790731c2366ab1a5520eefc5",
+      "size": 1258452
+    },
+    "Wallpaper/Version_Luna_VI_Wallpaper_1.webp": {
+      "hash": "4a09fb22ee2276c54e2b44d34e9192222478dff2cc2736e73e3d8b247f3daa70",
+      "size": 1071772
+    },
+    "Wallpaper/Version_Luna_VI_Wallpaper_2.webp": {
+      "hash": "f2404aae1fb3e94b36262fbe72902144b97c4837093d0a937eb962cb413ead93",
+      "size": 791052
+    },
+    "Wallpaper/Version_Luna_V_Wallpaper_1.webp": {
+      "hash": "631e95d43380b1a6b094ed0e1584d96c67de1566178e3eb6353e8e03c0e1fc1f",
+      "size": 890920
+    },
+    "Wallpaper/Version_Luna_V_Wallpaper_2.webp": {
+      "hash": "ad94b3788375dcc851faaf891597c31891b5eb0d980f83d20dda2d51bcf988a0",
+      "size": 732324
+    },
     "Weapon-Icon/UI_EquipIcon_Bow_Alkonost.png": {
       "hash": "0c291931d78f324e389e48ef6519ba02428e18bf80e855da8847060d2d2f21cd",
       "size": 21718
@@ -13448,6 +13832,10 @@
     "Weapon-Icon/UI_EquipIcon_Bow_Fossil.webp": {
       "hash": "49e4aeae3c85ef38f05782161a04351b6069cdaca9799d9903f3fd73b2704adc",
       "size": 15128
+    },
+    "Weapon-Icon/UI_EquipIcon_Bow_GlintstoneBow.webp": {
+      "hash": "b251b38fac6b2af500ee90c20d0b7b72ca99d7e1101bf7ce1456168ff81d03b8",
+      "size": 21890
     },
     "Weapon-Icon/UI_EquipIcon_Bow_Gurabad.png": {
       "hash": "136e339a95ae57fb8d6c328512d3c9461fc8b98f2e2312fbea3f103684344a11",
@@ -13600,6 +13988,10 @@
     "Weapon-Icon/UI_EquipIcon_Bow_Recluse.webp": {
       "hash": "1d635b4d2b75ac9c1ba8c27663e2c9d13e7f53ee22ea6a6444d34a7bf62f5818",
       "size": 22476
+    },
+    "Weapon-Icon/UI_EquipIcon_Bow_ShatteredMirror.webp": {
+      "hash": "98f25b15018de19a59e65a8d1801988bb50cf4ccb8d82344264c7f74654956d9",
+      "size": 24452
     },
     "Weapon-Icon/UI_EquipIcon_Bow_Sling.png": {
       "hash": "1e9b59ca9610abca5252dce0fa73a1f6f662c01ee1ba29994d9714317e38f023",
@@ -13817,6 +14209,10 @@
       "hash": "32e92cbfcc96f04551d3be6542549c4f4809bcce313a5e95794a4b11f330266b",
       "size": 20934
     },
+    "Weapon-Icon/UI_EquipIcon_Catalyst_GlintstoneCatalyst.webp": {
+      "hash": "f3415fc6fa7078e711e1a338789c60c634ffd25d780052f1150098e46f98f1e1",
+      "size": 17450
+    },
     "Weapon-Icon/UI_EquipIcon_Catalyst_Ilmarinen.png": {
       "hash": "35fcc620175e30f3f2e709b7afe59fee606f740709edd559fe4cfd54bbb1b7be",
       "size": 17246
@@ -14017,6 +14413,10 @@
       "hash": "ed0377d80ecb333c33609c8b574ee762354c0b692295cfe5e96811912d25ce6e",
       "size": 16922
     },
+    "Weapon-Icon/UI_EquipIcon_Catalyst_SandMemoria.webp": {
+      "hash": "91995decd3c0aa6b926f0adb1e89251e772dc6389574d22195ab6ba3832996d7",
+      "size": 18692
+    },
     "Weapon-Icon/UI_EquipIcon_Catalyst_SeeliesLute.png": {
       "hash": "fe046e31dadec3e016ebc534abf420d47d08a1a672950c2ac07a9b9fd6df79f2",
       "size": 19288
@@ -14209,6 +14609,10 @@
       "hash": "be260cedbedcc06a18957dcc336a1cdaa63a0b95f52a37c480d5b1c03486739d",
       "size": 24900
     },
+    "Weapon-Icon/UI_EquipIcon_Claymore_EscapeWheel.webp": {
+      "hash": "61ed64580fd2c63483ca1e45f2d7758aecef3d9a068a601bcca8e765d2eb99b1",
+      "size": 19600
+    },
     "Weapon-Icon/UI_EquipIcon_Claymore_Exotic.png": {
       "hash": "dd9c195baf708eee26109c03adfbc43e6c0873000f609d6be27fc3df76b6d540",
       "size": 19186
@@ -14240,6 +14644,10 @@
     "Weapon-Icon/UI_EquipIcon_Claymore_Glaive.webp": {
       "hash": "8b26ce0daeb3475823374cd703c250cab1a09e65555fac1ea613b697a1140e6d",
       "size": 15816
+    },
+    "Weapon-Icon/UI_EquipIcon_Claymore_GlintstoneClaymore.webp": {
+      "hash": "b7f6b7461b6a96f65f9c0315e9815ef8395dab7632b2adc05146e51b14c26496",
+      "size": 13206
     },
     "Weapon-Icon/UI_EquipIcon_Claymore_GoldenVerdict.png": {
       "hash": "eaa278c97ff8c6139c06dad95a2960d2c6597d26413089aaf30d9651fe54f795",
@@ -14561,6 +14969,10 @@
       "hash": "84bad7a0ee3affae30ceef6e7a3a9993abd88727c5d5efc504e267fa95bef5d9",
       "size": 11256
     },
+    "Weapon-Icon/UI_EquipIcon_Pole_FaesCrystalle.webp": {
+      "hash": "5377d4029afc8b915c0d1190c92a495dc49689dbf2df4063cd559d9d3df6e3f1",
+      "size": 15152
+    },
     "Weapon-Icon/UI_EquipIcon_Pole_Gewalt.png": {
       "hash": "8c04dfd4a08258a1d5358a13bed2435c6295d3cf1aede8c2c6ab79e0c210dbf4",
       "size": 9216
@@ -14576,6 +14988,10 @@
     "Weapon-Icon/UI_EquipIcon_Pole_Gladiator.webp": {
       "hash": "ef3036a16a988d49b807f652e4312d6ffaa6e7f3a922b1acecc465ca7041253d",
       "size": 17180
+    },
+    "Weapon-Icon/UI_EquipIcon_Pole_GlintstonePolearm.webp": {
+      "hash": "fd7f00a8c530af5b22ae1503d0b8959ea597e7aec5213e00f9649123c6ec1f3b",
+      "size": 12996
     },
     "Weapon-Icon/UI_EquipIcon_Pole_Halberd.png": {
       "hash": "b714cd0b1a329777652eb2cdadc46a3c6a7c09f99aa413faae093e5a78cc4498",
@@ -14937,6 +15353,18 @@
       "hash": "2b40f9bde819b5b800abfc9f31a5d00a7b7083a4ac670ff07fea014e899292ac",
       "size": 13460
     },
+    "Weapon-Icon/UI_EquipIcon_Sword_GlintstoneSword.webp": {
+      "hash": "6d3763f260ddd49572c2d2dc892495ea0b5fb7edc9761bb3323759f678b18c71",
+      "size": 12094
+    },
+    "Weapon-Icon/UI_EquipIcon_Sword_Icecream.png": {
+      "hash": "769eaded622a3ee8ee18cf38ab7f96b313360b36f6669ab2ac5a57ff34d5db6e",
+      "size": 15212
+    },
+    "Weapon-Icon/UI_EquipIcon_Sword_Icecream.webp": {
+      "hash": "769eaded622a3ee8ee18cf38ab7f96b313360b36f6669ab2ac5a57ff34d5db6e",
+      "size": 15212
+    },
     "Weapon-Icon/UI_EquipIcon_Sword_Ilmarinen.png": {
       "hash": "54d631a319e3bc1c79bb59ed46d17b4e555061b5dfd581a9fd090f8e8b5cca94",
       "size": 12656
@@ -15137,6 +15565,10 @@
       "hash": "ce657cc7eb3c5cf1d703aa586cc75b337758ad1f406d18265cbee51624dacf77",
       "size": 11028
     },
+    "Weapon-Icon/UI_EquipIcon_Sword_SerpentTooth.webp": {
+      "hash": "fad692ba385021aba344ec32a82869cded43d6e0872113f559d96eaf5a13de4c",
+      "size": 15732
+    },
     "Weapon-Icon/UI_EquipIcon_Sword_Silver.png": {
       "hash": "8b11ea859ca03ce8700e27042b6aca4ee9ff1931004285da4bcfccf788e5d090",
       "size": 12560
@@ -15160,6 +15592,10 @@
     "Weapon-Icon/UI_EquipIcon_Sword_Steel.webp": {
       "hash": "542a7c7e984fffc3e16fa0431255c7eee0e235d46c071b5883ea3b1f9ed49175",
       "size": 14164
+    },
+    "Weapon-Icon/UI_EquipIcon_Sword_Swanlake.webp": {
+      "hash": "634a582047db637d7028c448029a8d3d818eca3bfe7c448013149a532e752985",
+      "size": 16242
     },
     "Weapon-Icon/UI_EquipIcon_Sword_Theocrat.png": {
       "hash": "530065994674498aa334c618e31aaaad2f193c27988797c726199033d32dabd7",
@@ -15200,6 +15636,10 @@
     "Weapon-Icon/UI_EquipIcon_Sword_Vorpal.webp": {
       "hash": "64b030a61c9e791156c9ac591bbd2c8aa05268c3005141444333e760fc70acfc",
       "size": 13416
+    },
+    "Weapon-Icon/UI_EquipIcon_Sword_WeaponQuestSnezhnaya.webp": {
+      "hash": "b678ecf4134bf269b64e6961bd6091f194b3ee38c5a6a38756131189448bad45",
+      "size": 15126
     },
     "Weapon-Icon/UI_EquipIcon_Sword_Widsith.png": {
       "hash": "d22824cd8acec89da68bed98ae7f6cf7f167748e6f1baba18ef62393dd77970b",
@@ -15321,6 +15761,10 @@
       "hash": "c80d62fb62bf283919594e632a773a7b4301f4838f8c876bc4e49ecff684b5df",
       "size": 33654
     },
+    "Weapon-Img/UI_Gacha_EquipIcon_Bow_GlintstoneBow.webp": {
+      "hash": "a02cfad2a2cc577a395208ef9c6ea31a4d5979784dc6239f1206b3cdf1a20fcf",
+      "size": 39126
+    },
     "Weapon-Img/UI_Gacha_EquipIcon_Bow_Gurabad.webp": {
       "hash": "31926f3b16b913f626dd31e855f87556a05438619e3a599d64d31b2ab17ac3e3",
       "size": 49802
@@ -15420,6 +15864,10 @@
     "Weapon-Img/UI_Gacha_EquipIcon_Bow_Recluse.webp": {
       "hash": "69e13a5d3e311a09e72eb54812952815bb6fc9f48290f5cb58af803e8e49a810",
       "size": 47788
+    },
+    "Weapon-Img/UI_Gacha_EquipIcon_Bow_ShatteredMirror.webp": {
+      "hash": "44dbb809bc632552c497e81931f6e586ac87d5bbe38b857d120d14ad9f63485d",
+      "size": 50046
     },
     "Weapon-Img/UI_Gacha_EquipIcon_Bow_Sling.webp": {
       "hash": "6e2247effe07e9b2d31ec779a649c645c4e02fd56db26c15acc25321004250db",
@@ -15561,6 +16009,10 @@
       "hash": "5b891637a05ac5946325e09e4084e2df01390f67403506a7b876daba83c85336",
       "size": 17044
     },
+    "Weapon-Img/UI_Gacha_EquipIcon_Catalyst_GlintstoneCatalyst.webp": {
+      "hash": "3b8506b2960c3df8f33533bd4375f987f606c3483933e21d514f81c98605fe11",
+      "size": 32140
+    },
     "Weapon-Img/UI_Gacha_EquipIcon_Catalyst_Ilmarinen.webp": {
       "hash": "a4e6d91ae9d52057cb64a29e3868313d4e25abaf282d5b0b74affeba5b8b8de6",
       "size": 32522
@@ -15681,6 +16133,10 @@
       "hash": "d6b85149b2071a06b0661b89a2dbc8f7714d8aaf1952cc2123c92502c82fe8a7",
       "size": 32464
     },
+    "Weapon-Img/UI_Gacha_EquipIcon_Catalyst_SandMemoria.webp": {
+      "hash": "0567a48d9ee5f136091a6a6c2f1f9b80ce90e58e91fc633d05fc0be73e533394",
+      "size": 32536
+    },
     "Weapon-Img/UI_Gacha_EquipIcon_Catalyst_SeeliesLute.webp": {
       "hash": "244014ac565e3765155c3e16ae686e0f74a641146e9294a9ed114e47e0baeeac",
       "size": 35752
@@ -15789,6 +16245,10 @@
       "hash": "7d5434a9669a82044d3119bc4a6e2515011d3f6eb620cb284094532efb117eee",
       "size": 46656
     },
+    "Weapon-Img/UI_Gacha_EquipIcon_Claymore_EscapeWheel.webp": {
+      "hash": "1d825df5c0fa5d57bd6ee1e21e8ddd89aba2b3dea9a6a43b1b597aadb2058b27",
+      "size": 37622
+    },
     "Weapon-Img/UI_Gacha_EquipIcon_Claymore_Exotic.png": {
       "hash": "cb04b4a4c69cd43659d53b74f94168eafe1101af29e1e0245097f04e01656afb",
       "size": 35374
@@ -15808,6 +16268,10 @@
     "Weapon-Img/UI_Gacha_EquipIcon_Claymore_Glaive.webp": {
       "hash": "00d9575e927ffa9e346029e19ef0670e526e6cf54963baa29c7ad0a01aa8967a",
       "size": 27158
+    },
+    "Weapon-Img/UI_Gacha_EquipIcon_Claymore_GlintstoneClaymore.webp": {
+      "hash": "b62c6c9aa03ad92fdba2c9a8c995aadc284b68047c908bceb1c4a9f39c8f074a",
+      "size": 27860
     },
     "Weapon-Img/UI_Gacha_EquipIcon_Claymore_GoldenVerdict.webp": {
       "hash": "bb573236b7017d1691ad5944389c8021bd1cd54dceb955d3a4b54778589ccb9c",
@@ -16013,6 +16477,10 @@
       "hash": "9c2081e3a7545b76f80e649c20aa27c7d8e74e22dca681e4a85a64a35b575a88",
       "size": 28060
     },
+    "Weapon-Img/UI_Gacha_EquipIcon_Pole_FaesCrystalle.webp": {
+      "hash": "3808f7a37a7a5b6e135f121bd79d28a6ac948415e237669d33ff61a639b65a4c",
+      "size": 23700
+    },
     "Weapon-Img/UI_Gacha_EquipIcon_Pole_Gewalt.webp": {
       "hash": "ccba7127ff3d4d30a73fff5c98b518fbc93608e4d7059d688b11ef0fe75f8f5d",
       "size": 18726
@@ -16024,6 +16492,10 @@
     "Weapon-Img/UI_Gacha_EquipIcon_Pole_Gladiator.webp": {
       "hash": "21fe1db72ebebaf65b336d30c1cddcf4b4a1fa0de3a272659d2b8bde526ef93a",
       "size": 32666
+    },
+    "Weapon-Img/UI_Gacha_EquipIcon_Pole_GlintstonePolearm.webp": {
+      "hash": "f89c131bab8dfc5c36ca988273a611a7ac3cfde027ec77e8822b8757fc8b399e",
+      "size": 21592
     },
     "Weapon-Img/UI_Gacha_EquipIcon_Pole_Halberd.webp": {
       "hash": "b7bd675917c79ff9ba5898ed224148bc162ad031fe40517134dfaa9425ac8653",
@@ -16261,6 +16733,14 @@
       "hash": "9a46c4f7b55cb9d76d86d674902598b8c9a9a7a3ddefd5959301545a120f03c7",
       "size": 22190
     },
+    "Weapon-Img/UI_Gacha_EquipIcon_Sword_GlintstoneSword.webp": {
+      "hash": "203e8099c83ff34554e5aa5c7ef4b35d8bd5efc15f031883a0ab0316b8605b85",
+      "size": 21248
+    },
+    "Weapon-Img/UI_Gacha_EquipIcon_Sword_Icecream.webp": {
+      "hash": "565be29e9c1dd52aeff487b26c52ea89eab4b6530cead313cea94e35e8c3c3c3",
+      "size": 29030
+    },
     "Weapon-Img/UI_Gacha_EquipIcon_Sword_Ilmarinen.webp": {
       "hash": "32d6866b9dff0c68cc5733edd38a59778848e090833d0c4a1181356bb10bb4af",
       "size": 22422
@@ -16385,6 +16865,10 @@
       "hash": "89697164dcb6fd5354e9ad57daaf05734bcfe76daf5378e5020876caace99394",
       "size": 19100
     },
+    "Weapon-Img/UI_Gacha_EquipIcon_Sword_SerpentTooth.webp": {
+      "hash": "824dd3ec76aaa01eeb543669b83057cb285a902e23c556763c8d96d67ecb4a30",
+      "size": 26542
+    },
     "Weapon-Img/UI_Gacha_EquipIcon_Sword_Silver.webp": {
       "hash": "a2132dd3fee9c5454f7f554393c7847cb862e95f80090669a65d4f0fa44e6856",
       "size": 21898
@@ -16396,6 +16880,10 @@
     "Weapon-Img/UI_Gacha_EquipIcon_Sword_Steel.webp": {
       "hash": "3b86d108f4319b72e6cea49ed7e74523b3e08f5a0fd55b18fcf29c1e44f23936",
       "size": 22144
+    },
+    "Weapon-Img/UI_Gacha_EquipIcon_Sword_Swanlake.webp": {
+      "hash": "a67b3da0302100ebd1d4422cad7fbff333cca06d27562190bde61c3da6eb6b79",
+      "size": 23962
     },
     "Weapon-Img/UI_Gacha_EquipIcon_Sword_Theocrat.webp": {
       "hash": "f0fcce5d27d7bbaf8f9a7c9ae5f9fa6e558ace225fea44abf19e5c7e9a243de6",
@@ -16416,6 +16904,10 @@
     "Weapon-Img/UI_Gacha_EquipIcon_Sword_Vorpal.webp": {
       "hash": "ecc32e6ce538c3dcda2aa9b5eb41b68825f076ca4eb00e291f1ba21f397da972",
       "size": 22374
+    },
+    "Weapon-Img/UI_Gacha_EquipIcon_Sword_WeaponQuestSnezhnaya.webp": {
+      "hash": "9d3a409938140330e77e9839892e83d40f34316bfe6b8c8c26e8bca170a98fd4",
+      "size": 27632
     },
     "Weapon-Img/UI_Gacha_EquipIcon_Sword_Widsith.png": {
       "hash": "ff1fe1e8b990f53ba61751046c44ea281681503d9689651bc6e0ed3258059b26",
@@ -16440,6 +16932,10 @@
     "Weapon-Img/UI_Gacha_EquipIcon_Sword_Zephyrus.webp": {
       "hash": "93979598747165122d3d443e099ad5958c2372d4addbc3c70fa234278cc84768",
       "size": 14858
+    },
+    "Web/Web_icon_bili_wiki.png": {
+      "hash": "1f945a3cf2d12f3ca957bf84d07ee026dd6fc2e7981f93418ad2a27079384eab",
+      "size": 100299
     },
     "Web/Web_icon_cocogoat.png": {
       "hash": "d3775e4428f515399c873d95a2768cb0d8dddcab1ae6bd26acb33a5f106f0e60",
@@ -16472,6 +16968,10 @@
     "Web/Web_icon_proj_amber.png.ico": {
       "hash": "8c862c4a8c12d7bf7beea033737b1541158357e69e9b846b96c7b3f108d227a4",
       "size": 15086
+    },
+    "Web/Web_img_bili_wiki.jpg": {
+      "hash": "444470e151e00a0fc2794c712f82c634be32e376eea7abd539907a96087f49fe",
+      "size": 309560
     },
     "Web/Web_img_cocogoat.png": {
       "hash": "eb25024c30909b248ff23c631bbb678a3380f994ac9f0a88784aefa99c73b6c9",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T04:45:52.532Z",
+  "generated": "2026-09-23T13:48:00.717Z",
   "files": {
     "Char-Avatar/UI_AvatarIcon_Aino.png": {
       "hash": "6d0d39fcddf05e7d79ab8225c6117369b951290b43b9d29d7049b93f797fd296",
@@ -293,6 +293,10 @@
       "hash": "e64406f51173430acdda599dec3e8577c9171794746754b0de72f3a7e8427d57",
       "size": 84181
     },
+    "Char-Avatar/UI_AvatarIcon_Mitya.png": {
+      "hash": "33e98126637598aa36c91b193d215c5e077d18f42321cda952292e82d9255243",
+      "size": 32740
+    },
     "Char-Avatar/UI_AvatarIcon_Mizuki.png": {
       "hash": "8a704794e461a2dbd8be0300247319ec424a85ece8aeef58867fffbcdb0e94b5",
       "size": 107097
@@ -436,6 +440,10 @@
     "Char-Avatar/UI_AvatarIcon_Tohma.png": {
       "hash": "60d3eb288669efe30a57356e32cfd12a7acb055414a9a50f1cc853ea6a07ad73",
       "size": 25624
+    },
+    "Char-Avatar/UI_AvatarIcon_Valeriy.png": {
+      "hash": "0ed305614cba0f84cc76387e684cbd1c52bab156527cfd8ddf869214a7fe288d",
+      "size": 30846
     },
     "Char-Avatar/UI_AvatarIcon_Varesa.png": {
       "hash": "167d9a6c15c394ceb8f978b25c95ee9fbff792c1a2332d05d73be30bb99f3527",
@@ -1041,6 +1049,10 @@
       "hash": "f41bd4e426110eaf78d1cc80609e3b845e4b182dd8abc5d2c2cce40a6a5c5c57",
       "size": 822425
     },
+    "Char-Img/UI_Gacha_AvatarImg_Mitya.png": {
+      "hash": "c2d1451ceca5699eb2452814e99ce86d3fdf8667fb9b1b42c0cc5438508d501f",
+      "size": 374752
+    },
     "Char-Img/UI_Gacha_AvatarImg_Mizuki.png": {
       "hash": "6f59cc532dd1a6401c106964a4ec5562605f463da47e03bd28488ecc5993ec4a",
       "size": 1070357
@@ -1172,6 +1184,10 @@
     "Char-Img/UI_Gacha_AvatarImg_Tohma.png": {
       "hash": "bbb40d017c67ebaaa85dcfb1443d1b12c7c96e76e9ddf6db9d58edd9854fb1d3",
       "size": 942274
+    },
+    "Char-Img/UI_Gacha_AvatarImg_Valeriy.png": {
+      "hash": "a90c1f73df1016cd6113b92dc9d099d3ab991c1cde9b3cb25d919db4ac6d7061",
+      "size": 345402
     },
     "Char-Img/UI_Gacha_AvatarImg_Varesa.png": {
       "hash": "bb4df14a63901ac5bf21ec55708f8e07d2583d9bed90eb809f18cae5a2178e69",
@@ -1541,6 +1557,10 @@
       "hash": "be1e72339986badcf4d9ac2803f6b075a170950489bc579dc20ae91b92bb8a9f",
       "size": 89098
     },
+    "Char-Namecard/UI_NameCardPic_Mitya_P.png": {
+      "hash": "198594f668575c1edc037d55fd860a95b5713d58aa110ea83351d92a3887756a",
+      "size": 83140
+    },
     "Char-Namecard/UI_NameCardPic_Mizuki_P.png": {
       "hash": "24338339b2686781143d6be5be36eec1c29e94d05df495fcb2553d0250615529",
       "size": 51628
@@ -1668,6 +1688,10 @@
     "Char-Namecard/UI_NameCardPic_Tohma_P.png": {
       "hash": "bf89412df0e3404311196b545989f83814c127e0ee6b005f287c1c04a139f417",
       "size": 55146
+    },
+    "Char-Namecard/UI_NameCardPic_Valeriy_P.png": {
+      "hash": "baa7ddf8b20793c95e31c503e79462a7e1f79bb3ad598e3fd5e9c4e49010c1b1",
+      "size": 84090
     },
     "Char-Namecard/UI_NameCardPic_Varesa_P.png": {
       "hash": "6a350f3733c52b18b3642a92e39b9becc74dc5c2064bcb4a2eb3ce21422396b1",
@@ -2069,6 +2093,10 @@
       "hash": "9bf2253f853fe22eee3249e27450191d3498d7186d4f7202bf0a437ec05ee2b6",
       "size": 4103
     },
+    "Char-Skill/Skill_E_Mitya_01.png": {
+      "hash": "14c371730affae44bff2301f88593212009b88977cb23b9a7997381d58057bc7",
+      "size": 3120
+    },
     "Char-Skill/Skill_E_Mizuki_01.png": {
       "hash": "05ccbe71641a38c346cbfed4901948910821ff6c73b13b13f7604183a6609fce",
       "size": 4171
@@ -2220,6 +2248,10 @@
     "Char-Skill/Skill_E_Tohma_01.png": {
       "hash": "c1eb95b9289834e49edcf01fce95d697194636664d1f407b64eacdd92340973f",
       "size": 4232
+    },
+    "Char-Skill/Skill_E_Valeriy_01.png": {
+      "hash": "5e921646d51207c3494128e36a6dec535c547f55e198839915df58b4e331dc34",
+      "size": 3506
     },
     "Char-Skill/Skill_E_Varesa_01.png": {
       "hash": "11bb89bccb22604f4a619bfcff8c22a15c8f861cd7c6a10efcfe90640a5e3dfe",
@@ -2585,6 +2617,10 @@
       "hash": "482962146803516e2ea8e20090edec5b332f919660516e23426ec3d06d78f44c",
       "size": 7216
     },
+    "Char-Skill/Skill_S_Mitya_01.png": {
+      "hash": "a17a63336864270245041014fbce1ed057ec9076bbffeaba399d6a8540628efd",
+      "size": 5384
+    },
     "Char-Skill/Skill_S_Mizuki_01.png": {
       "hash": "1226b599b7cc57a6663278204619d57e59a36b1cb75ac1fc41250f8f7009a95a",
       "size": 5170
@@ -2740,6 +2776,10 @@
     "Char-Skill/Skill_S_Tohma_01.png": {
       "hash": "3f2332b6a95f53ff94308aedfd686b6d2f8d2275ce5dde0a1e7e45e61296f5d0",
       "size": 7654
+    },
+    "Char-Skill/Skill_S_Valeriy_01.png": {
+      "hash": "ae3495389b08e71a1e0d11b6b84be237b1f28375110920e6aba5a142b35e2755",
+      "size": 5170
     },
     "Char-Skill/Skill_S_Varesa_01.png": {
       "hash": "a74e6a9c57715b48e3edc23c0debe5ea04be1b4997f4a108c4ae96192ebc9780",
@@ -4829,6 +4869,38 @@
       "hash": "1148617c087c4ab456c31400e8702f27ed21e71d5e0c0d1ac1c8c6cac1127f2e",
       "size": 6199
     },
+    "Char-Talent/UI_Talent_S_Mitya_01.png": {
+      "hash": "cabb4a32455f15445263c88eb67a88f4d01536fb1ee1305ab88240198c31b950",
+      "size": 3440
+    },
+    "Char-Talent/UI_Talent_S_Mitya_02.png": {
+      "hash": "48371957870800ce37e8af2b6f791f52163b3e343129c7a41381c85984383c54",
+      "size": 5280
+    },
+    "Char-Talent/UI_Talent_S_Mitya_03.png": {
+      "hash": "309d712401c5ea879e74540acfe38820a5244ecb1b47e175b71aafeefcc46859",
+      "size": 5574
+    },
+    "Char-Talent/UI_Talent_S_Mitya_04.png": {
+      "hash": "0d545937fb1552091f69aad8cce567ba1b1a7a2e2ba8022c308cfa84577c9985",
+      "size": 3178
+    },
+    "Char-Talent/UI_Talent_S_Mitya_05.png": {
+      "hash": "be441ec719ae65e23b162b084d4f06fe8caf2ffce1cf2ed26ae21442442287fa",
+      "size": 5148
+    },
+    "Char-Talent/UI_Talent_S_Mitya_06.png": {
+      "hash": "364a616e6d2aa52d64746c225ecc63d39e625e378a0cc618d704e3f66f95fddd",
+      "size": 3024
+    },
+    "Char-Talent/UI_Talent_S_Mitya_07.png": {
+      "hash": "1aaf3b208a1077b145299bf8ef7084681c7b7307198e64fb057ac5e4cb2e61de",
+      "size": 4284
+    },
+    "Char-Talent/UI_Talent_S_Mitya_08.png": {
+      "hash": "41b5a3818c4f2de9164310ab0ade9263317f0f6ce4e9bb2e25793f5638549665",
+      "size": 3474
+    },
     "Char-Talent/UI_Talent_S_Mizuki_01.png": {
       "hash": "6f599da17f5c57ae94b6e2327d4a66a11867c500e1866b4739894daaeb25bcaa",
       "size": 7167
@@ -5884,6 +5956,34 @@
     "Char-Talent/UI_Talent_S_Tohma_07.png": {
       "hash": "c447216fcfd2f4d133215c0d530aa90a188190bc8bc292858edfe269875dd9ab",
       "size": 6701
+    },
+    "Char-Talent/UI_Talent_S_Valeriy_01.png": {
+      "hash": "7e984065d55031c4b4fdc74a9a4781ed611a3a323272b1bf99b0ac0839729af7",
+      "size": 5500
+    },
+    "Char-Talent/UI_Talent_S_Valeriy_02.png": {
+      "hash": "901c57db567f2e8666fec7693ee8084f23c619633fb313b91ed0bb6d210d09ae",
+      "size": 4622
+    },
+    "Char-Talent/UI_Talent_S_Valeriy_03.png": {
+      "hash": "81bccb7f4fee26370cd2e526fd35f0c29d7351b1eba6f350af8e6f63ae9e2472",
+      "size": 4496
+    },
+    "Char-Talent/UI_Talent_S_Valeriy_04.png": {
+      "hash": "667aa68527dd769d1972fcd715161a5f5c3a59d1dd960fcc5e3db11bdbb55376",
+      "size": 4702
+    },
+    "Char-Talent/UI_Talent_S_Valeriy_05.png": {
+      "hash": "a4859858e652bc316d9736c2a3051b38dfcf5229000aab3d7d5d48624cc1e278",
+      "size": 4088
+    },
+    "Char-Talent/UI_Talent_S_Valeriy_06.png": {
+      "hash": "1d2e5f9722a3d33ee979699d6c5fb8f26350f2501e258014c22407fb521f23d0",
+      "size": 3512
+    },
+    "Char-Talent/UI_Talent_S_Valeriy_07.png": {
+      "hash": "c72838673261383f40ce404c94eb4f4f63ed7da1298c0113864dbce1271f0e18",
+      "size": 5130
     },
     "Char-Talent/UI_Talent_S_Varesa_01.png": {
       "hash": "dd559114148841bd7fa91d6105cd48e2f875aaddbf1f5e9b01037ddc69708cf5",
@@ -6973,6 +7073,14 @@
       "hash": "482962146803516e2ea8e20090edec5b332f919660516e23426ec3d06d78f44c",
       "size": 7216
     },
+    "Char-Talent/UI_Talent_U_Mitya_01.png": {
+      "hash": "a17a63336864270245041014fbce1ed057ec9076bbffeaba399d6a8540628efd",
+      "size": 5384
+    },
+    "Char-Talent/UI_Talent_U_Mitya_02.png": {
+      "hash": "4d78fe5feef872d8edc8129e5bca2f4b91880acf43f5e5b7a0ad0053050047f2",
+      "size": 5000
+    },
     "Char-Talent/UI_Talent_U_Mizuki_01.png": {
       "hash": "1226b599b7cc57a6663278204619d57e59a36b1cb75ac1fc41250f8f7009a95a",
       "size": 5170
@@ -7281,6 +7389,14 @@
       "hash": "a172e9451282e214d03431988b69302185562bc1cdca3c380c739f84997b6d22",
       "size": 7692
     },
+    "Char-Talent/UI_Talent_U_Valeriy_01.png": {
+      "hash": "8fc5fae38443ee637ba12e193cc2da72b9ee916b34f72798ec57ea019a399283",
+      "size": 6190
+    },
+    "Char-Talent/UI_Talent_U_Valeriy_02.png": {
+      "hash": "4d64a91beb5fcd5f3e4f1fa0e33c9dacd9d00cd074e8079b32dfdda10030f15b",
+      "size": 5220
+    },
     "Char-Talent/UI_Talent_U_Varesa_01.png": {
       "hash": "de8466f1384e62aa778b0c55a41bf513a05cdaa2bc6265bcd03c986a838dbced",
       "size": 7000
@@ -7436,6 +7552,10 @@
     "Data/Data_夜魂加持.jpeg": {
       "hash": "dc6c4d43a9164c8e2c10426562d468af8fc48ff5bd0c75678494fd3e62e10e6e",
       "size": 88856
+    },
+    "Data/Data_星扩散.png": {
+      "hash": "1be61fbf63c208b16f61e3a5362c2c85222a028321b5c9f6f34cdb900838d726",
+      "size": 897071
     },
     "Data/Data_星超导.jpeg": {
       "hash": "332476136dffa4a6a818860c1f8836ea4e52c66bf4a251061a16f47c5ff92a2b",
@@ -8213,6 +8333,22 @@
       "hash": "83a7d872d3f89c7d17675b5665fd25d21f9ff4e315c76bcd40945185a72cbbce",
       "size": 278383
     },
+    "GachaHistory-Char/Gacha_7.0_02_01.png": {
+      "hash": "24d45232277acada285bccdc5d10fe8a783837785380d0a6aa2a5ec28802266e",
+      "size": 1222978
+    },
+    "GachaHistory-Char/Gacha_7.0_02_02.png": {
+      "hash": "3dad570904e0639eff42b679027f9cff5c09724dc2120f8a0adeb33b3c30cfb7",
+      "size": 1384591
+    },
+    "GachaHistory-Char/Gacha_7.1_01_01.jpeg": {
+      "hash": "c608fc323c1b3fc5d8139903a88e27e4e1ab98015159560c39d97ea38348e603",
+      "size": 80624
+    },
+    "GachaHistory-Char/Gacha_7.1_01_02.jpeg": {
+      "hash": "086f713a039994452f81d3b39926bdebe301272255e72cbcf91521f0bba4187d",
+      "size": 82554
+    },
     "GachaHistory-Compilation/Gacha_Compilation_4.5_01_01.webp": {
       "hash": "6197ffec1c8b6bba42771376e3c070233fcb964b96cb4ab096cd67cf01b7760a",
       "size": 165570
@@ -8660,6 +8796,14 @@
     "GachaHistory-Weapon/Gacha_Weapon_7.0_01_01.JPG": {
       "hash": "9ce5cab7f92eb07b55c3666685060e3f56a87b87eb1fbb662ae564cfb033df14",
       "size": 105798
+    },
+    "GachaHistory-Weapon/Gacha_Weapon_7.0_02_01.png": {
+      "hash": "453010e713b62f1a4cab2dfef32a9635462f109df806685c732ae5e3e38e08c2",
+      "size": 739545
+    },
+    "GachaHistory-Weapon/Gacha_Weapon_7.1_01_01.jpeg": {
+      "hash": "16e6bc6d10e2b538d73f80d74b2e969ba347c60f5b9f0b55452ada9f3e82176a",
+      "size": 60796
     },
     "Item/UI_ItemIcon_100021.png": {
       "hash": "b166bcf7a1606f32643334af1afc163ad3c9482a9d571f1476d4140acefdc0a9",
@@ -9885,6 +10029,14 @@
       "hash": "eca5d667fc5de3725755cb2ad9ecb97ff40bde739c154318b74899176ea7d821",
       "size": 15282
     },
+    "Item/UI_ItemIcon_108907.png": {
+      "hash": "d4aa3023e77b9c208df144bde79e6394f9fd99b071ba1e4b67a9318cb561d12e",
+      "size": 22386
+    },
+    "Item/UI_ItemIcon_108912.png": {
+      "hash": "b831bdb0d63c3e848a5030e08194577258c0bb4bd9294bb3251a98d9ebf53116",
+      "size": 18112
+    },
     "Item/UI_ItemIcon_112002.png": {
       "hash": "5b835e8fc4e7cd9050760aa55b4e025cd9a7003d4b571f559c6bc3260a738989",
       "size": 11805
@@ -10980,6 +11132,10 @@
     "Item/UI_ItemIcon_113092.webp": {
       "hash": "d613e39336af25ae9ca2cc221e224039f931ce39c16b43e5c75d0e28014ec52e",
       "size": 18148
+    },
+    "Item/UI_ItemIcon_113093.png": {
+      "hash": "3faed970f1ac364ac922a064fb18893cd58226285d72f01a7eb8e80063cdc91b",
+      "size": 17968
     },
     "Item/UI_ItemIcon_114001.png": {
       "hash": "1f6f3e06bb894366248372730b3464552318c4749b9cf8bfa158dcdc04bbcf62",
@@ -16125,6 +16281,10 @@
       "hash": "63eda53d858438e89739a0880819128b32a85d8d97178b44b64307d900396429",
       "size": 822771
     },
+    "Monster/Img/UI_MonsterImg_Guardian_Blade_of_Drifting_Snow.png": {
+      "hash": "f95de53b2c73874d3cd2f0747e112d230972d6081da16ef85b4b25718ef3c4b9",
+      "size": 735464
+    },
     "Monster/Img/UI_MonsterImg_Hermit.png": {
       "hash": "81157fc7ceb472dd3380c51aae3f8dddee75200681c722a10170113975cd206e",
       "size": 948189
@@ -16249,6 +16409,10 @@
       "hash": "a677d5f072ce338335b478cc16a19aebb1566ed9f632593dbb7117d6f905be3c",
       "size": 1778362
     },
+    "Monster/Stygian Onslaught/UI_Img_LeyLineChallenge_Karzelek_Tsereteli_01.png": {
+      "hash": "5f42bfb377b2cbe9b95ba7336b56299825b282e9423727a58b7377ad4e21e3b8",
+      "size": 1014896
+    },
     "Monster/Stygian Onslaught/UI_Img_LeyLineChallenge_LavaTitan.png": {
       "hash": "f8d422a6633b396ef4e9fb1e977553dd44290d915b629730d60afbe6f40e1290",
       "size": 1246662
@@ -16284,6 +16448,10 @@
     "Monster/Stygian Onslaught/UI_Img_LeyLineChallenge_OprichnikLanceArquebusRodya.png": {
       "hash": "1ca6290847f849444c8686e9e196160455ace481dcab9f1bfe28ef058b5938d6",
       "size": 1511747
+    },
+    "Monster/Stygian Onslaught/UI_Img_LeyLineChallenge_Snegurochka_Contessa_02.png": {
+      "hash": "c8e2fb87a016d49bd22b5b95ed691acc8084475e050ced230f1fd7d31371ff28",
+      "size": 1266711
     },
     "Monster/Stygian Onslaught/UI_Img_LeyLineChallenge_Tenoyollotzin.png": {
       "hash": "23fc46ae912de44ab313ba1e1ab8dae4e822e97c7d8d0e635c1f2a5f0cadd35d",
@@ -16705,18 +16873,6 @@
       "hash": "6bcfa00c2cd552dc54a8161036d1c735207e415a006a05c40fc963b4b217e890",
       "size": 49217
     },
-    "Monster/地方传奇/豪斗旅纪I/UI_MonsterIcon_Bandersnatch.png": {
-      "hash": "8e16d56a81acecdedd8f691f42a8610b51e788cfbb131fe4b217af6b57b7ae24",
-      "size": 120255
-    },
-    "Monster/地方传奇/豪斗旅纪I/UI_MonsterIcon_Churin.png": {
-      "hash": "74ae70bfdd1630f3134d559a5b53d94a28e6c2d45b183f8ddb81bbff896c30af",
-      "size": 72267
-    },
-    "Monster/地方传奇/豪斗旅纪I/UI_MonsterIcon_Furiosa.png": {
-      "hash": "e07f804f4d656883c74fc11b81fb4a75c949375030c3195166a58cf49a63b219",
-      "size": 110892
-    },
     "Monster/地方传奇/豪斗旅纪I/「摩诃婆苏提婆耶弗太子」.png": {
       "hash": "81b8504d0324df70566d8b7eaf10c7b6a946527129d371a2e572f23ce6436990",
       "size": 31319
@@ -16756,6 +16912,18 @@
     "Monster/地方传奇/豪斗旅纪I/西格德.png": {
       "hash": "5cfe9f6a93dea29304bb22bec16172ef1a5fa37a173e4004271c731bd2a81385",
       "size": 31343
+    },
+    "Monster/地方传奇/豪斗旅纪II/UI_MonsterIcon_Bandersnatch.png": {
+      "hash": "8e16d56a81acecdedd8f691f42a8610b51e788cfbb131fe4b217af6b57b7ae24",
+      "size": 120255
+    },
+    "Monster/地方传奇/豪斗旅纪II/UI_MonsterIcon_Churin.png": {
+      "hash": "74ae70bfdd1630f3134d559a5b53d94a28e6c2d45b183f8ddb81bbff896c30af",
+      "size": 72267
+    },
+    "Monster/地方传奇/豪斗旅纪II/UI_MonsterIcon_Furiosa.png": {
+      "hash": "e07f804f4d656883c74fc11b81fb4a75c949375030c3195166a58cf49a63b219",
+      "size": 110892
     },
     "Monster/地方传奇/铜锁.png": {
       "hash": "efcad0c08e2b31c431d213c76681cd33fbc5d50bb488054049f0ca42f985b8a3",
@@ -19081,6 +19249,210 @@
       "hash": "3ed4aec732c901ee17a1d7f07aaf0416c13ac83a46e4b22fcc2cbaecd4a0a178",
       "size": 21172
     },
+    "Wallpaper/Version_1.0_Wallpaper_1.webp": {
+      "hash": "ac3402d75bd3b9255a03e461577b05cdfdc50849862f1ac7d59ca60b35e19e6a",
+      "size": 1382024
+    },
+    "Wallpaper/Version_1.0_Wallpaper_2.webp": {
+      "hash": "17e44058e2d14d491de1ea7359ac549b44eda3ed728684b5a77cc7c0124649d9",
+      "size": 1325422
+    },
+    "Wallpaper/Version_1.0_Wallpaper_3.webp": {
+      "hash": "1c267724bd74a5faab32e36d833e6bb40100f4a22b4c08bbe4b51afebcd6a63a",
+      "size": 9665808
+    },
+    "Wallpaper/Version_1.1_Wallpaper_1.webp": {
+      "hash": "3eb6512baeec9848f5baa1330a7133e77f91b89290b998ebf7545c90a7d1a724",
+      "size": 1022500
+    },
+    "Wallpaper/Version_1.1_Wallpaper_2.webp": {
+      "hash": "8a7e55f89136bde7a14d25a225cbf6b3336655f25d99e321b7c57af203e33f07",
+      "size": 1909294
+    },
+    "Wallpaper/Version_1.2_Full_Wallpaper_1.webp": {
+      "hash": "63bf30fc182f8128252d2f884011c2b82fcaf49bb0b415eaaefcc6b6ce373049",
+      "size": 680710
+    },
+    "Wallpaper/Version_1.2_Full_Wallpaper_2.webp": {
+      "hash": "6be35c4ffb4644a9a392f6a5d213a9ef323dfc0c8b4879b8830f4408a7aa2b9c",
+      "size": 211650
+    },
+    "Wallpaper/Version_1.3_Wallpaper.webp": {
+      "hash": "918e8b1a1cef500df272d6eb40b863ebdc3111c97edea6f215cf0c1cd55f32c3",
+      "size": 1173592
+    },
+    "Wallpaper/Version_1.4_Full_Wallpaper.webp": {
+      "hash": "f0fbde4e04aedb3a9461dcfebf7da97df66f9bdb2f9e28786606cbd67af6fb82",
+      "size": 1530706
+    },
+    "Wallpaper/Version_1.5_Wallpaper_1.webp": {
+      "hash": "42ce9638c5cc3daed84e550219c767e7cb35cd83566264de8ab9b56376bf7a7d",
+      "size": 1428736
+    },
+    "Wallpaper/Version_1.5_Wallpaper_2.webp": {
+      "hash": "c2545f773dd98644a3acd5c84ed50c578ed530cc1be005ae3a4c33a8f1151b7c",
+      "size": 920778
+    },
+    "Wallpaper/Version_1.5_Wallpaper_3.webp": {
+      "hash": "2f3c568c2632e8b809d6b434237a1457349216e672256bdf28a40cf17bfd1924",
+      "size": 182886
+    },
+    "Wallpaper/Version_1.6_Wallpaper_1.webp": {
+      "hash": "096fa303afa10b0d9b652c59953aa436a4b2277593692905a23549715ca71f58",
+      "size": 1548782
+    },
+    "Wallpaper/Version_1.6_Wallpaper_2.webp": {
+      "hash": "e0cb65da2dcbcd56cc86a827f7fba1646645da03d6656bca8c5496cb5e8a58a2",
+      "size": 397278
+    },
+    "Wallpaper/Version_2.0_Wallpaper.webp": {
+      "hash": "a78f3492bad768fdb779d5727ba7a839ef688b09ab884b2587be898843b2cfdf",
+      "size": 1088574
+    },
+    "Wallpaper/Version_2.1_Wallpaper_1.webp": {
+      "hash": "f7dd2d858076876ff42d490a422024ce71e41152ab73ff56c228fcea90508e42",
+      "size": 1007094
+    },
+    "Wallpaper/Version_2.1_Wallpaper_2.webp": {
+      "hash": "d4dc1b36f318c66a6aca12cd9a4a5858001e2822ea2b8c318519ce638beb102f",
+      "size": 968634
+    },
+    "Wallpaper/Version_2.1_Wallpaper_3.webp": {
+      "hash": "4aad0e8b9e9cb99e27b7a505100529775d562ab5c386ede41cec34d597250772",
+      "size": 1211702
+    },
+    "Wallpaper/Version_2.1_Wallpaper_4.webp": {
+      "hash": "fda151de37b4cd7f01518c8245bc056a89103b66dfc7961b4169ded6d2e79a51",
+      "size": 958780
+    },
+    "Wallpaper/Version_2.2_Wallpaper_1.webp": {
+      "hash": "8def47294b95f9794e6242dfeba6ac85c2a1f0348053dcf931f8ba3ecb5c0867",
+      "size": 1824904
+    },
+    "Wallpaper/Version_2.2_Wallpaper_2.webp": {
+      "hash": "0bd3c73126e4cb4ffefe670f0b6a997e050991f68dc51f702a133bcfe665abca",
+      "size": 633400
+    },
+    "Wallpaper/Version_2.3_Wallpaper_1.webp": {
+      "hash": "a4e614b1edcd30536d97a2c4e9c9164c703717237b28f37654841baa3604fb45",
+      "size": 1760034
+    },
+    "Wallpaper/Version_2.3_Wallpaper_2.webp": {
+      "hash": "b801fe85b6bdb4ca8f9d67c4f04bdb10ddc76a1f8769e686be6f42471579507e",
+      "size": 901048
+    },
+    "Wallpaper/Version_2.4_Wallpaper_1.webp": {
+      "hash": "43d6080721a65bc22e01e8496872d2e7b0f5226eecccf08369aff323cf9fa57e",
+      "size": 1061404
+    },
+    "Wallpaper/Version_2.4_Wallpaper_2.webp": {
+      "hash": "561dd2b959db58b260ed8f5ce2d5f7ede3fdf58b5cd4d1a78814d1bd7f10d234",
+      "size": 866350
+    },
+    "Wallpaper/Version_2.5_Wallpaper_1.webp": {
+      "hash": "74224d7568614b39fd0d37f6d1284ced31762248a9c7d0948e6c36b82c82af44",
+      "size": 1524210
+    },
+    "Wallpaper/Version_2.5_Wallpaper_2.webp": {
+      "hash": "db803ed79a1d02173c988c30b3f2b01ee6e19e9f3f735a02bab3d5d9040c9e58",
+      "size": 664498
+    },
+    "Wallpaper/Version_2.6_Wallpaper_1.webp": {
+      "hash": "554118960a15315607ad2d599400216faf784acb536eab02d1a81a4cd941cb9d",
+      "size": 944264
+    },
+    "Wallpaper/Version_2.6_Wallpaper_2.webp": {
+      "hash": "627d6523748541e736b7fe2652cffb31341e2fd5cfce06b16ee67b00db9048a3",
+      "size": 914900
+    },
+    "Wallpaper/Version_2.8_Wallpaper_1.webp": {
+      "hash": "bc20fe58b3e7e29fd113f59563ec441f840b5826ad744e0eac8258f648e1b25e",
+      "size": 1296112
+    },
+    "Wallpaper/Version_2.8_Wallpaper_2.webp": {
+      "hash": "0dc056676ad470dff5ec545c95873bb540f616327fcce6a45cf8e8bf11b3ff5c",
+      "size": 497096
+    },
+    "Wallpaper/Version_3.0_Wallpaper_1.webp": {
+      "hash": "52466c518acd72622297b201c8f8580253ba247957fb97d4b372f0c2416d46e6",
+      "size": 1836244
+    },
+    "Wallpaper/Version_3.0_Wallpaper_2.webp": {
+      "hash": "4a220693d2e92cf332d1dc61481b2da3bdf1ffad78bb08800d95709abd06d58e",
+      "size": 967394
+    },
+    "Wallpaper/Version_3.1_Wallpaper_1.webp": {
+      "hash": "e133b0149841b580fc275964fca495388d9e4d53ff2c59320fa8dbf079a8387b",
+      "size": 1640600
+    },
+    "Wallpaper/Version_3.1_Wallpaper_2.webp": {
+      "hash": "cb7ffb8a5c1a756607c9965fac2bbd3cf9cbe8bc3f5a521072a7fd26e7e98504",
+      "size": 1381224
+    },
+    "Wallpaper/Version_3.1_Wallpaper_3.webp": {
+      "hash": "39ac992edc7ab0c07a68c580df669657609b92c82982238c9ac1e828688a39dd",
+      "size": 1008910
+    },
+    "Wallpaper/Version_3.2_Wallpaper_1.webp": {
+      "hash": "39d45f2216df8a82a71d627287ec962cf1ee149545099ae010e2f9ae6ae8042a",
+      "size": 1299534
+    },
+    "Wallpaper/Version_3.2_Wallpaper_2.webp": {
+      "hash": "338719603c383b1ab5407ecc5b03181af097f7d04b26975ce15cfc1cfedc0702",
+      "size": 939434
+    },
+    "Wallpaper/Version_3.3_Wallpaper_1.webp": {
+      "hash": "1eb00b499fe1f88393cdf627db94e6bea545822321ce6af04d818b3e4a8a08eb",
+      "size": 1048720
+    },
+    "Wallpaper/Version_3.3_Wallpaper_2.webp": {
+      "hash": "3970a904688ce725b5fba6a7acf7073ec35bc50789707795db396da6c97314f8",
+      "size": 836702
+    },
+    "Wallpaper/Version_3.4_Full_Wallpaper_1.webp": {
+      "hash": "0207e2c4a99572b44a1505155bf48440f145729aa0fe995553b3bd8d4c17ed0d",
+      "size": 1299954
+    },
+    "Wallpaper/Version_3.4_Wallpaper_2.webp": {
+      "hash": "1a4cb7138e2bc88ee5451db79a997d956f78579cc7c96148af6e828877d2121d",
+      "size": 865276
+    },
+    "Wallpaper/Version_3.4_Wallpaper_3.webp": {
+      "hash": "147c3d860bb2857d2ba1dfbd961017915aad7b59334843cdd434a6f93a92cbae",
+      "size": 844300
+    },
+    "Wallpaper/Version_3.5_Wallpaper_1.webp": {
+      "hash": "77b94c2f0849a951ada8ec2f1ea5948c524f4c130f0ce772dad0d9cf61ef7f79",
+      "size": 1399194
+    },
+    "Wallpaper/Version_3.5_Wallpaper_2.webp": {
+      "hash": "5f2cefd72f66fc90487acdf4e43f3362727403cefc3db0c7ffb0b47fb3b4964e",
+      "size": 750366
+    },
+    "Wallpaper/Version_3.6_Wallpaper_1.webp": {
+      "hash": "0b5f1550aa97859cec5753acb7d21fa2287527a344d42a597132860c17481516",
+      "size": 9076984
+    },
+    "Wallpaper/Version_3.6_Wallpaper_2.webp": {
+      "hash": "1cdf010c5812e4e33f4b0b533ac95c993b952e5da8defc97bcd0290d78008236",
+      "size": 745120
+    },
+    "Wallpaper/Version_3.7_Wallpaper_1.webp": {
+      "hash": "bfda8bb22badf0bf4b4a0e2d5d43cd4e32171c97c648e11fee194db42ea67911",
+      "size": 1767794
+    },
+    "Wallpaper/Version_3.7_Wallpaper_2.webp": {
+      "hash": "24222c14637d09e85f5e5322f345673bea71122b89c72dda90f5fad8bd051073",
+      "size": 964078
+    },
+    "Wallpaper/Version_3.8_Wallpaper_1.webp": {
+      "hash": "c4d57578d4761b1eac948fc7cdf3779240adfdd90dc3e67bb59b19ee3e8a721c",
+      "size": 1665804
+    },
+    "Wallpaper/Version_3.8_Wallpaper_2.webp": {
+      "hash": "2999ee68f8e6e339bbe003a32c0706f360d6c67ea798d3e5d596615ffc82d639",
+      "size": 866322
+    },
     "Wallpaper/Version_4.0_Wallpaper_1.webp": {
       "hash": "fe9ed9bdeaaeb3a3e74befca6c8d2bed57008e1c53235b101f03fe6eb08fc517",
       "size": 1784904
@@ -19246,12 +19618,12 @@
       "size": 897498
     },
     "Wallpaper/Version_7.0_Wallpaper_1.webp": {
-      "hash": "0b6d8d3f4f1aef359eeab846cdfe0368ee1ac5c8f1781389f9ca416407262baf",
-      "size": 3108424
+      "hash": "389d7677637705662474fa83ea0825a5adf296a114b1f5707903f57d79b400f7",
+      "size": 1174534
     },
     "Wallpaper/Version_7.0_Wallpaper_2.webp": {
-      "hash": "60d263dcd113437e9c5a8c6e4db71452bd0498777d9a2ee55b7984591c5b326a",
-      "size": 3448042
+      "hash": "7a49b1cfefba086b078ea87bd665fc9c20bf104afed56442b0ceeb903b5fdd63",
+      "size": 979024
     },
     "Wallpaper/Version_7.0_Wallpaper_3.webp": {
       "hash": "11e100283d0d07ebf26e934ab24252de6ebe6f367f2fa988a4acf54188d3e12c",
